@@ -1,0 +1,51 @@
+[project]
+name = "i2rced"
+version = "0.0.1"
+description = "Exploring the Role of Women in Hugging Face Organizations and Model Success"
+authors = [
+  { name = "Maria Tubella Salinas" },
+]
+
+readme = "README.md"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    
+]
+requires-python = "~=3.10"
+
+[tool.black]
+line-length = 99
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.venv
+)/
+'''
+
+[tool.ruff.lint.isort]
+known_first_party = ["i2rced"]
+force_sort_within_sections = true
+
+[tool.poetry]
+name = "i2rced"
+version = "0.1.0"
+description = ""
+authors = ["maria"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.2.3"
+numpy = "^2.2.1"
+scikit-learn = "^1.6.0"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.10.0"
+pylint = "^3.3.3"
+pytest = "^8.3.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
