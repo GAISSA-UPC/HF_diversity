@@ -2,7 +2,7 @@ import requests
 import csv
 
 # Set your Hugging Face token here
-#HF_TOKEN = "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"
+
 
 def get_org_members(org_name):
     api_url = f"https://huggingface.co/api/organizations/{org_name}/members"
