@@ -1,0 +1,38 @@
+username,name,role,has_github,location,gender
+besacier,laurent besacier,user,True,,male
+YannisK,Yannis Kalantidis,user,True,"Grenoble, France",male
+yhoppeno,Yves Hoppenot,user,False,,male
+PhilippeWeinzaepfel,Philippe Weinzaepfel,user,True,,male
+tformal,Thibault Formal,user,True,Grenoble,male
+bchidlovskii,Boris Chidlovskii,user,False,,male
+nguerin,Nicolas Guérin,user,True,,male
+ChristopheL,Christophe Legras,user,False,,male
+germank,Germán Kruszewski,user,True,,male
+Herve,Hervé Déjean,user,True,,male
+ClaudeSenor,Roux,user,False,,unknown
+fbaradel,Fabien Baradel,user,True,,male
+mzboito,Marcely Zanon Boito,user,True,,female
+nle-sar,Search and Recommendation group at Naver Labs Europe,user,False,,unknown
+Vassilina,Vassilina Nikoulina,user,False,,female
+nadiinchi,Nadia,user,False,,female
+tthonet,Thibaut Thonet,user,False,,male
+rdef,Romain Deffayet,user,True,"Grenoble, France",male
+dionysos69,Fabien GUILLOT,user,False,,male
+gskim,Giseop Kim,user,True,"Seongnam City, South Korea",male
+Almoni,Leo,user,False,,male
+JYVD,Jean-Yves Vion-Dury,user,True,,male
+sclincha,Stephane Clinchant,user,True,,male
+josrozen,Jos Rozen,user,True,Grenoble,male
+ted-hwang,Ted Hwang,user,False,,male
+yocabon,Yohann CABON,user,False,,male
+vleroy,Vincent Leroy,user,False,,male
+rbreg,Brégier,user,False,,male
+ioan-calapodescu,Ioan Calapodescu,user,True,,male
+jerome-revaud,Jerome Revaud,user,True,,male
+IreneMaxwell,Irene Maxwell,user,False,,female
+maxoul,maxime louis,user,False,,male
+nlagos,Nikolaos Lagos,user,False,,male
+mniemaz,michael niemaz,user,False,,male
+Beomseok-LEE,Beomseok LEE,user,False,,male
+mbsariyildiz,Mert Bulent Sariyildiz,user,True,"Grenoble, France",male
+alexmsrh,Alexandre Misrahi,user,True,"Lausanne, Switzerland",male

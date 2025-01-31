@@ -1,0 +1,4 @@
+username,name,role,has_github,location,gender
+t03i,Tobias O,user,True,,unknown
+mheinz,Michael Heinzinger,user,True,,male
+RostlabAdmin,Timothy Karl,user,False,,male

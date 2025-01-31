@@ -1,0 +1,40 @@
+username,name,role,has_github,location,gender
+mayank-mishra,Mayank Mishra,user,True,Boston,male
+rpand002,Rameswar Panda,user,False,,male
+YikangS,Yikang Shen,user,True,,unknown
+stallone,Matt,user,False,,male
+gaoyuanz,Gaoyuan Zhang,user,False,,male
+amezasor,Adriana Meza Soria,user,True,,female
+adiprasad,Aditya Prasad,user,True,Cambridge,male
+ruchirpuri101,Ruchir Puri,user,False,,male
+daviddcox,David Cox,user,False,,male
+wmgifford,Wesley M. Gifford,user,False,,male
+abedaniels,Abraham Daniels,user,False,,male
+agovindj,Anita Govindjee,user,False,,female
+sahilsuneja,sahil sunejaa,user,False,,male
+JRosenkranz,Joshua Rosenkranz,user,True,,male
+connorleech,Connor Leech,user,True,"Brooklyn, NY",male
+ashish23,Ashish Sunil Agrawal,user,True,India,male
+pronics2004,Prasanna Sattigeri,user,False,,male
+bhatta1,Bishwaranjan Bhattacharjee,user,False,,male
+romeokienzler,Romeo Kienzler,user,False,,male
+ranarag,Anurag Roy,user,True,India,male
+vijaye12,Vijay Ekambaram,user,True,,male
+ink-pad,Inkit,user,False,,unknown
+ariG23498,Aritra Roy Gosthipaty,user,True,"Kolkata,WestBengal",male
+pcuenq,Pedro Cuenca,user,True,Spain,male
+alozowski,Alina Lozovskaya,user,True,Spain,female
+reach-vb,Vaibhav Srivastav,user,True,nvidia-smi,male
+adampingelibm,Adam Pingel,user,False,,male
+gandalfhz,Gandalf Hernandez,user,True,SF,male
+clefourrier,Clémentine Fourrier,user,True,France,female
+jolson-ibm,Joe Olson,user,False,,male
+gabegoodhart,Gabe Goodhart,user,True,Denver,male
+kjs243,Kate Soule,user,False,,female
+ollama,ollama,user,True,,unknown
+shawntan,Shawn Tan,user,True,"Cambridge, MA",male
+kathy-yu,Kathy Yu,user,False,,female
+cdwei-gg,Gary Wei,user,False,,unknown
+kgreenewald,Kristjan Greenewald,user,False,,male
+grahamwhiteuk,Graham White,user,True,"Hampshire, UK",male
+michaeldesmond,Michael Desmond,user,False,,male

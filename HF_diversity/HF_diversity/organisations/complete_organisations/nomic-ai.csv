@@ -1,0 +1,18 @@
+username,name,role,has_github,location,gender
+andriym,Andriy Mulyar,user,True,NYC,male
+zpn,Zach Nussbaum,user,True,,male
+bstadt,Brandon Duderstadt,user,True,,male
+manyoso,Adam Treat,user,True,,male
+benmschmidt,Ben Schmidt,user,True,New York City,male
+rguo123,Richard Guo,user,True,,male
+ben-schmidt,Ben Schmidt,user,False,,male
+wilsonjr,Wilson Marcílio-Jr,user,True,Brazil,male
+hshelm,Hayden Helm,user,True,,unknown
+Cebtenzzre,Cebtenzzre,user,True,New York City,unknown
+jxm,Jack Morris,user,True,"New York, NY",male
+tarsur909,Tarun Suresh,user,True,,male
+tomaarsen,Tom Aarsen,user,True,Netherlands,male
+akgom,Akanksha,user,True,,female
+Asomala,Abhi Somala,user,False,,unknown
+MaxNomic,Max Cembalest,user,True,"Brooklyn, NY",male
+devops-nomic,dev,user,False,,unknown

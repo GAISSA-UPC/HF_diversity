@@ -1,0 +1,33 @@
+username,name,role,has_github,location,gender
+tanaysoni,Tanay Soni,user,True,,male
+malte,Malte Pietsch,user,True,"Berlin, Germany",male
+julianrisch,Julian Risch,user,True,"Berlin, Germany",male
+dmigo,Dmitry Goryunov,user,True,"Berlin, Germany",male
+mkkuemmel,Miriam Kümmel,user,False,,female
+sotthe,Soteris Theophanous,user,False,,male
+tstadel,Thomas Stadelmann,user,True,,male
+erend,Eren Dabanlıoğlu,user,False,,male
+vblagoje,Vladimir Blagojevic,user,True,Berlin,male
+sjrhuschlee,Sebastian Husch Lee,user,True,Munich,male
+mrusic,Milos Rusic,user,False,,male
+jugu,Julian Gutsch,user,False,,male
+deepsetFlorian,H,user,False,,unknown
+askainet,Ivan Lopez,user,True,Barcelona (Spain),male
+mathislucka,Mathis,user,True,,male
+bilgeyucel,Bilge Yücel,user,True,Istanbul,male
+rjanjua,Rohan Janjua,user,True,,male
+bijaygurung,Bijay Gurung,user,True,,male
+HaystackBot,Haystack Bot,user,False,,unknown
+JasperLS,Jasper Schwenzow,user,True,Hamburg,male
+aga-m,Agnieszka Marzec,user,True,,female
+daria-f,Daria Fokina,user,False,,female
+anakin87,Stefano Fiorucci,user,True,Italy,male
+annthurium,Tilde Thurium,user,True,San Francisco,unknown
+shadeMe,Madeesh Kannan,user,True,In the Great Hall and in the bladder,male
+MoRags,Mohamed Sriha,user,True,Chicago,male
+silvanocerza,Silvano Cerza,user,True,World,male
+DavidSBatista,David Batista,user,True,"Berlin, Germany",male
+aantti,Andrey A.,user,False,,male
+lucalilai,Laura Luckert,user,True,,female
+marcofalsone,Marco Falsone,user,False,,male
+Emil-io,Emil Scheffer,user,True,,male

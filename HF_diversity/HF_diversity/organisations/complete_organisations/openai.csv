@@ -1,0 +1,55 @@
+username,name,role,has_github,location,gender
+jongwook,Jong Wook Kim,user,True,"San Francisco, CA",male
+unixpickle,Alex Nichol,user,True,,unknown
+andrew-openai,ak,user,False,,unknown
+ryangr,Ryan Greene,user,True,"New York, NY",male
+jkirchner,Jan Hendrik Kirchner,user,False,,male
+cjarvis-oai,Colin Jarvis,user,True,"Glasgow, UK",male
+oaialvin,Alvin Wang,user,False,,male
+michellef,Michelle Fradin,user,False,,female
+andmis-openai,Andrey Mishchenko,user,True,,male
+justonf,Juston Forte,user,False,,male
+oaistathas,Nick Stathas,user,False,,male
+awboai,Andrew Braunstein,user,True,Oakland,male
+gmyles,Gideon Myles,user,False,,male
+marat-openai,Marat Dukhan,user,False,,male
+TeoMusatoiu,Teodora Musatoiu,user,False,,female
+oai-alexb,Alex Beutel,user,False,,male
+jbetkeroai,JB,user,False,,unknown
+isafulf,Isa Fulford,user,True,,unknown
+jharb-openai,Jean Harb,user,False,,unknown
+juan-openai,Juan Felipe Ceron Uribe,user,False,,male
+zhiqings,Zhiqing Sun,user,True,,unknown
+magoop,Mayank Gupta,user,False,,male
+micll,Michael,user,False,,male
+andrei-oai,Andrei,user,False,,male
+jwang-openai,julie wang,user,False,,female
+prashant-oai,Prashant M,user,False,,male
+noahmacca1,Noah,user,False,,male
+ajaech,Aaron Jaech,user,False,,male
+owencm,Owen Campbell-Moore,user,True,San Francisco,male
+oai-edwin,Edwin Zhang,user,False,,male
+hallacy-openai,Chris Hallacy,user,True,,male
+eszuhany-oai,Eric Szuhany,user,False,,male
+posnep,Asif,user,False,,male
+oailong,Long Ouyang,user,False,,male
+erikrit,Erik Ritter,user,False,,male
+asdfryan,Ryan Liu,user,False,,male
+eproehl,Elizabeth Proehl,user,False,,female
+aidenlow,Aiden Low,user,True,San Francisco Bay Area,male
+ishaansingal,Ishaan Singal,user,False,,male
+danh-openai,Daniel H,user,False,,male
+olegm2000,Oleg Murk,user,False,,male
+kwhinnery-openai,Kevin Whinnery,user,True,Minneapolis,male
+weioai,Wei Han,user,False,,unknown
+joyyce,Joyce Lee,user,False,,female
+vk-oai,Vahid Kazemi,user,False,,male
+july2024,James,user,False,,male
+danialm,Danial Mirza,user,False,,male
+sshoker,Sarah Shoker,user,False,,female
+lamaahmad,Lama Ahmad,user,False,,unknown
+adamkalai,Adam Kalai,user,False,,male
+xingyulin,Xingyu Lin,user,False,,unknown
+atty-openai,Atty Eleti,user,False,,unknown
+Sandhini,Agarwal,user,False,,unknown
+MichaelLampe,Michael Lampe,user,False,,male

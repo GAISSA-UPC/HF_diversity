@@ -1,0 +1,6 @@
+username,name,role,has_github,location,gender
+josecannete,José Cañete,user,True,"Santiago, Chile",male
+felipebravom,Felipe Bravo-Marquez,user,True,"Santiago, Chile",male
+jorgeortizfuentes,Jorge Ortiz Fuentes,user,True,"Santiago, Chile",male
+martinbravo,Martin Bravo,user,True,,male
+ClementeH,Clemente Henriquez,user,False,,male

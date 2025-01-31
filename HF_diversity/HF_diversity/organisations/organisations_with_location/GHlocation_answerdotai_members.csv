@@ -1,0 +1,18 @@
+username,name,role,has_github,location
+jph00,Jeremy Howard,user,True,"Brisbane, Australia"
+keremturgutlu,Kerem Turgutlu,user,True,
+bwarner,Benjamin Warner,user,False,
+johnowhitaker,Jonathan Whitaker,user,True,"Portland, Oregon"
+bclavie,Benjamin Clavié,user,True,Lyon/Tokyo
+austinvhuang,Austin Huang,user,True,
+griffin,Griffin Adams,user,True,"New Canaan, CT"
+fladhak,Faisal Ladhak,user,False,
+vikp,Vikas Paruchuri,user,True,"Brooklyn, NY"
+rbiswasfc,Raja Biswas,user,True,Singapore
+hamel,Hamel Husain,user,True,"Portland, OR"
+ncoop57,Nathan Cooper,user,True,
+freddyaboulton,Freddy Boulton,user,True,Boston
+alexisgallagher,Alexis Gallagher,user,True,San Francisco
+lversweyveld,Luke Versweyveld,user,False,
+sarahpann,Sarah Pan,user,False,
+wgpubs,wgpubs,user,True,

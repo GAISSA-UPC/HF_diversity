@@ -1,0 +1,464 @@
+username,name,role,has_github,location
+hygong,Hongyu Gong,user,False,
+cklaiber,Christopher Klaiber,user,False,
+nikkar,Nikita Karaev,user,False,
+bohoro,Brian O'Horo,user,True,"Mountain View, CA"
+melhoushi,Mostafa Elhoushi,user,True,"Toronto, ON"
+aclegg3,Alexander Clegg,user,True,"Menlo Park, CA"
+annasun28,Anna Sun,user,True,
+vincentpierre,Vince B,user,False,
+0mdc,Mikaël Dallaire Côté,user,True,Montreal
+yichiaowu,Yi-Chiao Wu,user,True,
+maksymets,Oleksandr Maksymets,user,True,"Menlo Park, California, USA"
+orepin,Oleg Repin,user,False,
+chintaksheth,Chintak Sheth,user,True,"San Mateo, CA"
+yzhao30,Yue Zhao,user,True,
+varun-nagaraja,Varun Nagaraja,user,False,
+jrapin,Jeremy Rapin,user,True,Paris
+vovakaravov,Vladimir Karashchuk,user,False,
+seijiyamamoto,Seiji Yamamoto,user,False,
+mortzur,Mor Tzur,user,True,
+TimDarcet,Timothée Darcet,user,True,Paris
+pierrefdz,Pierre Fernandez,user,True,France
+patricklabatut,Patrick Labatut,user,False,
+sstadelman,Stan Stadelman,user,False,
+SummerDeng,Summer Deng,user,False,
+gabeur,Valentin Gabeur,user,False,
+chrismarra,Chris Marra,user,True,
+gpuri,GAURAV,user,False,
+honarkhah,Mehrdad Honarkhah,user,False,
+mszafraniec,Marc Szafraniec,user,False,
+itaigat,Itai Gat,user,True,"Tel Aviv, Israel"
+NDimCube,Piotr Dobrowolski,user,True,
+fguzman,Paco Guzman,user,True,US
+fkokkinos,Filippos,user,False,
+williamwen42,William Wen,user,True,
+zpao,Paul,user,True,"Seattle, WA"
+hkhedr,Haitham Khedr,user,True,United States
+metagp,Greg Prosser,user,False,
+lvj,Lisa Jin,user,True,"New York, NY"
+KShah1998,Kavit Shah,user,True,"San Jose, California"
+meganung,Megan Ung,user,True,
+epresani,Eleonora Presani,user,False,
+artyomko,Kozhevnikov,user,False,
+hc3k1,Henry,user,False,
+shingometa,shingo,user,False,
+architbaweja,Archit Baweja,user,True,"Oakland, CA"
+andersed,andersed,user,False,
+luismojicaatmeta,Luis Mojica,user,False,
+pierluca,Pierluca D'Oro,user,False,
+cwlang,Christian Lang,user,False,
+aarushirai,Aarushi Rai,user,False,
+zlinao,Zhaojiang Lin,user,True,California
+camd,Cam Davis,user,False,
+ryan-y,Ryan Yao,user,False,
+seemethere,Eli Uriegas,user,True,California
+lhmeta,Leif,user,False,
+franjordano,Francisco,user,True,London
+YCAOYCAO,YCAO,user,False,
+anticlockwise5,Rongzhou Shen,user,False,
+ZmnakoAhmed,Zmnako Ahmed,user,False,
+Farzad-p,Farzad Parikhani,user,False,
+armanz,Arman Zharmagambetov,user,True,
+pacrook,Paul Crook,user,True,
+kir2kpa,Kiran,user,False,
+an99,Akhil Nadigatla,user,True,"Pittsburgh, PA"
+ericmsmith,Eric Michael Smith,user,True,"New York, NY"
+azab,Mahmoud Azab,user,False,
+imjeremyhi,Jeremy Fu,user,True,
+algoriddle,Gergely Szilvasy,user,False,
+vontimitta,Varun Vontimitta,user,True,
+drisspg,Driss Guessous,user,True,Los Angeles
+Tebeen,Ibrahim ,user,False,
+kakade-eth,Saurabh Kakade,user,True,
+gromovand,Andrey Gromov,user,True,Bay Area
+dvall033,DJ Valleru,user,False,
+xidwang,Xiaodong Wang,user,False,
+nitinkamra,Nitin Kamra,user,False,
+chloebi98,Chloe Bi,user,True,
+alexmourachko,Alexandre Mourachko,user,True,
+cointegrated,David Dale,user,True,Paris
+nneverova,Natalia,user,False,
+hadyelsahar,hady elsahar,user,True,"Berlin, Germany"
+Northendy,Hang Guan,user,False,
+mduppes,Mark Duppenthaler,user,True,
+billmatrix,Zheqing Zhu,user,False,
+dmohapat,Debabrata Mohapatra,user,False,
+lukbl,Lukas Blecher,user,True,Paris
+abhiaghf,Abhinav Agarwal,user,False,
+xzbei,Xinzhu Bei,user,False,
+spmeta,Sean,user,False,
+maximgroshev,Maxim Groshev,user,True,
+marialomeli,Maria Lomeli,user,True,
+JordiMeta,Jorge Ramon Puig,user,False,
+mariacj,Maria Jimbo,user,False,
+mreso,Matthias Reso,user,False,
+huinan-123,Huinan,user,False,
+priyamparashar,Priyam Parashar,user,True,"Pittsburgh, PA"
+hunterjackson,Hunter Jackson,user,False,
+yijuilee,Yi Jui Lee,user,False,
+gaochen315,Chen Gao,user,True,Seattle
+danielrjiang,Daniel Jiang,user,False,
+bilgeacun,Bilge,user,False,
+debjyotipaul,Debjyoti Paul,user,False,
+calebh,Caleb Ho,user,False,
+smotwani,Simran Motwani,user,True,
+mjksmith,Matt Smith,user,False,
+shuqiyang,Shuqi Yang,user,False,
+cxhrndz,Carlos Hernández,user,True,Brooklyn
+Dianjing,Dianjing Liu,user,False,
+nmacchioni,Nicolas Macchioni,user,False,
+jfchi,Jianfeng Chi,user,True,
+marksaroufim,Mark Saroufim,user,True,The Matrix
+jding003,JasonDing,user,False,
+lynn1992,linqiu li,user,False,
+pradyot,Prady Prakash,user,True,
+litesaber,Kartikeya Upasani,user,False,
+mahnerak,Karen Hambardzumyan,user,True,"London, UK"
+a-i-r,Aaron Bell,user,True,New York
+elliotmills,Elliot,user,False,
+alisiameta,alisia meta,user,True,
+annl,Ann Lee,user,False,
+arkc,Arkabandhu Chowdhury,user,False,
+elbayadm,Maha Elbayad,user,True,San Francisco Bay Area
+skottur,Satwik Kottur,user,True,Menlo Park
+dkgi,Dominik Gabi,user,False,
+jdsaxe,Joshua Saxe,user,False,
+kauterry,Kaushik Ram Sadagopan,user,True,Mountain View
+spencerwmeta,Spencer Whitman,user,True,
+YesterdaysNews,Alex,user,False,
+iangraves,Ian Graves,user,False,
+sebdah,Sebastian Dahlgren,user,True,"Malmö, Sweden"
+Fbordes,Florian Bordes,user,False,
+aduston-work,Duston,user,False,
+tryrobbo,ThomasR,user,True,London
+hongyufumeta,Hongyu Fu,user,False,
+bokaiyu,Bokai Yu,user,False,
+kellydu,MENGYING DU,user,False,
+tianyu-l,Tianyu Liu,user,True,
+niavasha,niavasha,user,True,United States
+jlh,John Henning,user,True,"Cambridge, MA"
+meta-bot,Meta Platforms,user,False,
+KhookieThief,Jack Khuu,user,False,
+timhorton,marc kennedy,user,False,
+oscmansan,Oscar Mañas,user,True,Montréal
+bigfootjon,Jon Janzen,user,True,"Seattle, WA"
+aozturk,Alkan Ozturk,user,False,
+megdv,Megi Dervishi,user,False,
+Aeacus,Lu Dah,user,False,
+ravisiv,Ravishankar Sivaraman,user,False,
+uralik,ilia kulikov,user,True,
+gnail,Graeme Nail,user,True,UK
+jeanma,Jean,user,True,United Kingdom
+manuelcandales,Manuel Candales,user,True,
+kern3l,Somya Jain,user,True,
+mkomeili,Mojtaba Komeili,user,True,
+csmberlin,Stefan Meister,user,False,
+irismanchen,Manchen Wang,user,False,
+dongnie,Dong Nie,user,False,
+vvvvvvvvvvvvv,Vlad,user,False,
+spatki,Siddharth Patki,user,False,
+jacobkahn,Jacob Kahn,user,True,New York | San Francisco
+rassouel,Rim Assouel,user,False,
+fghussain,Fatima Hussain,user,False,
+urielsinger,Uriel Singer,user,True,
+frosd01,Duncan Frost,user,False,
+vasH20,Vas Uhn,user,False,
+ormbot,Campbell Orme,user,False,
+ajb85,Andrew Brush,user,True,"Seattle, WA"
+metascroy,Scott Roy,user,False,
+wukaixingxp,Kai Wu,user,True,Menlo Park
+faaabian,Fabian Gloeckle,user,False,
+claireroberts,Claire Roberts,user,False,
+carljparker,Carl Parker,user,True,"Seattle, WA"
+SahirGomez,Sahir Gomez,user,True,New York
+kodybartelt,Kody Bartelt,user,False,
+mikezhaocs,Changsheng Zhao,user,False,
+igortufanov,Igor Tufanov,user,False,
+yiangela7,Angela Yi,user,True,
+Tristan,Tristan Thrush,user,True,
+ccross,Candace Ross,user,False,
+allanwu,Allan Wu,user,False,
+leigao84,Lei Gao,user,False,
+kevinsison,Kevin Sison,user,False,
+boyuanfeng,Boyuan Feng,user,False,
+awgu,Andrew Gu,user,True,"New York, NY"
+lucylq,Lucy Qiu,user,True,
+Sarangb,Borude,user,False,
+SashaM,Sasha Mitts,user,False,
+pianpwk,Pian Pawakapan,user,True,
+JianyuanWang,Jianyuan Wang,user,False,
+adefazio,Aaron Defazio,user,True,New York
+cynikolai,Cyrus Nikolaidis,user,True,New York
+shayas,Shay Ashkenazi,user,False,
+fengcls,Michael Feng,user,False,
+Raghotham,Raghotham Murthy,user,False,
+lessteza,Morteza Behrooz,user,False,
+cpelletier,Calvin Pelletier,user,False,
+simonwan,Simon Wan,user,True,New York
+slinsy,Shaun Lindsay,user,False,
+dpalmasan,Diego Palma,user,True,Seattle
+chasingdiscomfort,Prithviraj Billa,user,True,Austin
+Rgrunnet,Rasmus Grunnet-Jepsen,user,False,
+amarkos,Aram,user,False,
+lidher,K,user,False,
+surisdi,Didac Suris,user,True,
+spoppi,Samuele Poppi,user,True,"Menlo Park, CA, USA"
+pariard,Paria Rashidinejad,user,False,
+kplm,Kate P,user,False,
+amanali,Aman Ali,user,False,
+howjing,How,user,False,
+zishunyu,Zishun Yu,user,False,
+sidaw,Sida Wang,user,True,
+gshreya,Shreya Goyal,user,False,
+watsonkyletest1,Kyle Watson Test 1,user,False,
+Ted0412,Ziyang Wang,user,False,
+viswanathgs,Viswanath Sivakumar,user,True,"San Francisco, CA"
+tekinb,BT,user,False,
+jamesjwu,James Wu,user,False,
+dltn,Dalton Flanagan,user,True,
+jtruong,Joanne Truong,user,False,
+lichao1,Chao Li,user,False,
+ethangill,Ethan Gill,user,True,"Lexington, KY"
+vsee,Volker Seeker ,user,True,Scotland
+findhao,Yueming,user,False,
+awilf-meta,Alex Wilf (Meta),user,False,
+mlazos,Michael Lazos,user,False,
+lg-zhang,Linguang Zhang,user,True,
+JoaoMariaJaneiro,Joao Maria Janeiro,user,True,Portugal
+samuelselvan,Samuel Selvan,user,False,
+bartolofj,Fernando Bartolo,user,True,"London, UK"
+JasonBouKheir-meta,Jason BouKheir,user,False,
+yyyeh,Yu-Ying Yeh,user,False,
+badalpmeta,Badal Patel,user,False,
+altrevr,Alan Schelten,user,False,
+xiangzh-meta,Xiang Zhang,user,False,
+gasoonjia,Songhao Jia,user,False,
+dbolya,Daniel Bolya,user,True,
+ChrisCummins,Chris Cummins,user,True,"Bay Area, California"
+kaiyuy,Kaiyu Yang,user,True,"New York, NY"
+cmodi,Chirag Modi,user,False,
+deepakagrawal,Deepak Agrawal,user,False,
+pauldaym,Paul Day,user,False,
+joelico,Joe,user,False,
+zhuomingfb,Zhuoming Li,user,False,
+alikhosh,Ali Khosh,user,False,
+kkhandel,Kartik Sanjay Khandelwal,user,False,
+sourabhmadoor,Sourabh madur,user,False,
+subramen2,suraj s,user,False,
+ChesterHuMeta,Chester Hu,user,False,
+Cdde,W,user,False,
+Harryxg,G,user,False,
+d4l3k,CD,user,False,
+melissah14,Melissa Hall,user,False,
+hjshah,Hardik Shah,user,False,
+mimeyer,Michel Meyer,user,True,
+ashwinbmeta,Ashwin Bharambe,user,True,
+aliaafb,Aliaa A,user,False,
+miamiasheep,Eric Lee,user,False,
+aaryanknl,Aaryan Kothapalli,user,True,"Texas, US"
+aobo-y,Aobo Yang,user,True,Hong Kong
+chrislucmeta,Christopher Luc,user,False,
+kirklandsignature,Hansong,user,False,
+acohen13,Andrew Cohen,user,True,
+pweng,Peter Weng,user,False,
+llopez500,Luis Lopez,user,False,
+anteradan,Ante Radan,user,False,
+sakka1991,sakka,user,True,Seattle
+yunyangx,Yunyang Xiong,user,True,
+kollasb,Suresh Kolla,user,False,
+igor-v,Igor David Vainberg,user,False,
+mmassenzio,Marco Massenzio,user,True,"Sunnyvale, CA"
+xwhan,Wenhan Xiong,user,False,
+xutaima,Xutai Ma,user,False,
+SJTUwanyi,Yi Wan,user,False,
+wgao99,William Gao,user,False,
+shelbyp97,Parham,user,False,
+yentinglin,Yen-Ting Lin,user,True,
+cdiller,Christian Diller,user,False,
+laurynask,laurynas,user,False,
+hanwenz,Hanwen Zhang,user,False,
+ujjwalkarn,Ujjwal Karn,user,True,San Francisco
+mingdachenmeta,Mingda Chen,user,False,
+amainz,Adam Mainz,user,False,
+Kalyanvasudev,Alwala,user,True,
+edwardguo,Baishan Guo,user,False,
+shoumikhin,Anthony Shoumikhin,user,True,"Seattle, WA"
+arpitbansalMeta,Arpit Bansal,user,False,
+sainbar,Sainbayar Sukhbaatar,user,False,
+Zoe312,Hu,user,False,
+njstraubmeta,Nate Straub,user,False,
+lmaptx4869meta,Miao Liu,user,False,
+flyingpiggy1994,anonymous,user,False,
+JunlinHan,Junlin Han,user,True,London
+z-y-m,Zibo Ye,user,False,
+neomyte,Chinmay,user,False,
+mikaylagawarecki,Mikayla Gawarecki,user,False,
+telgamal,Tarek Elgamal,user,False,
+LHUmt,Liao Hu,user,False,
+harish88ss,Harish Srinivas,user,False,
+Sizhe-Chen,Sizhe Chen,user,True,"Berkeley, CA"
+ellenxtan,Ellen Tan,user,True,
+neelraja,Neel Raja,user,False,
+ddsevero,Daniel Severo,user,False,
+lisalisadong,Qingxiao Dong,user,False,
+dgieb-meta,Daniel Giebisch,user,False,
+fnupramono,fnu pramono,user,False,
+cpuhrsch,Christian Puhrsch,user,False,
+steevenlee,Steven Lee,user,False,
+Hamid-Nazeri,Hamid Shojanazeri,user,True,Bay Area
+richardzou5,Richard Zou,user,False,
+masnesral,Sam Larsen,user,True,
+gabeferns,Gabriel Ferns,user,True,"San Francisco, CA"
+rawalkhirodkar,Rawal Khirodkar,user,True,"Pittsburgh, Pennsylvania"
+gejjiabha,Abha Gejji,user,False,
+mkachuee,Mohammad Kachuee,user,False,
+nli1619,Ning Li,user,True,Seattle
+ariakang,Aria Kang,user,False,
+lindawang,Linda Wang,user,True,SF Bay Area
+louisng5,Louis ng,user,False,
+khimc,Chua Khim Teck,user,False,
+I2ev0lt,Aaron Grattafiori,user,True,
+carlielam,Carlie Lam,user,False,
+onionymous,Stephanie Ding,user,True,
+NAINAKM,Naina Kuruballi Mahesh,user,False,
+KonstantinDonhauser,Konstantin Donhauser,user,False,
+yetian12,Ye Tian,user,False,
+robieta,Taylor Robie,user,False,
+astitvaRL,Astitva Srivastava,user,False,
+valbiero,Vitor Albiero,user,True,
+karanc1729,Karan Chadha,user,True,
+mori360,Yifan Mao,user,False,
+sychoudhury,Sy Choudhury,user,False,
+mleshen,Emily Shen,user,False,
+JeremyCJM,Junming Chen,user,False,
+jurameta,Yuriy Hulovatyy,user,False,
+fb-iordanis,Iordanis,user,False,
+leonwan,leon wan,user,False,
+smahajan100,Saurabh Mahajan,user,False,
+yanxi0830,Xi Yan,user,False,
+Alfozan,Abdulrahman Alfozan,user,True,"Bay Area, CA"
+eduardosanchez,Eduardo Sánchez,user,True,London
+RishiHazraMeta,Rishi Hazra,user,True,Sweden
+MetaMats,Mats Bakken,user,False,
+hemeta,HE,user,False,
+sruthikeshs,sruthikesh surineni,user,True,"Austin, TX"
+davidfan97,David Fan,user,True,"New York, NY"
+yujiew,Yujie Wei,user,False,
+Tianlu,Tianlu Wang,user,False,
+tonyliao-meta,Tony Liao,user,False,
+sijiac,Jackson Chen,user,False,
+Golovneva,Olga Golovneva,user,True,
+xlxxl,Xian Li,user,False,
+veenix,Vincent Cheung,user,True,"San Carlos, CA"
+miffycs,Miffy Chen,user,True,"Seattle, WA"
+bandhav,Bandhav Veluri,user,True,Seattle
+mkrainin,Mike Krainin,user,False,
+amallya-m,A M ,user,False,
+miguelmartin75,Miguel Martin,user,True,San Francisco
+felixkreuk1,Felix Kreuk,user,True,Israel
+vyachu07,Vyshnav Achuthan,user,True,
+zcckernel,Chenchen Zhu,user,False,
+Drandom,User,user,False,
+betodepaola,Alberto de Paola,user,True,
+ckwalsh,Cullen Walsh,user,False,
+jlelifeld,Jurjen Lelifeld,user,False,
+swolchok,Scott Wolchok,user,True,Menlo Park
+zhz-fb,Zhaoheng Zheng,user,False,
+JadeCopet,Jade Copet,user,True,
+simonrouard,Simon Rouard,user,False,
+glelan,Gael Le Lan,user,True,Rennes
+jodent,Julien Odent,user,False,
+yunhe2019,Yun He,user,False,
+mariusae,Marius Eriksen,user,True,"bay area, california"
+stevenwjones,Steven Jones,user,True,NYC
+dpramasa,divya Pramasani Mohandoss,user,False,
+arnav7,Arnav,user,False,
+znimeta,Zhaoheng Ni,user,False,
+haoheliu,haoheliu,user,True,"Guildford GU2 7XH Stag Hill, UK"
+kaisqu,Kai Li,user,True,
+flycoolerDTC,Zhao Dong,user,False,
+larosaliaa,Rosalia Dupont,user,False,
+Gilgilgil123,Meta,user,False,
+bowenshi,Bowen Shi,user,True,
+yutianz,Yutian Zheng,user,False,
+wangyang19,Yang Wang,user,False,
+rfquick,Robin Quick,user,False,
+viktorphoenix-meta,Viktor Phoenix,user,False,
+remiaudfray,Remi Audfray,user,False,
+lpf4,Leo Ferrante,user,False,
+andrelevim,Andre Levi,user,False,
+wufeim,Wufei Ma,user,True,"Baltimore, MD"
+MaryamMeta,Maryam Ghaseri,user,False,
+anniefranco,Annie Franco,user,False,
+chayryali,Chay Ryali,user,False,
+alanhhwong,Alan Wong,user,True,Hong Kong
+sumandude,Suman Gumudavelli,user,False,
+r34p3r1321,r34p3r,user,True,New Orleans
+jjverbeek,Jakob Verbeek,user,False,
+ythu,Yuan-Ting Hu,user,False,
+Man6nR,Manon Revel,user,False,
+connortreacy,Connor Treacy,user,False,
+yuvalkirstainmeta,Yuval Kirstain,user,False,
+loy870,Louis,user,True,
+erichan1,Eric Han,user,False,
+zulissimeta,Zachary Ulissi,user,False,
+carohiguera,Carolina Higuera,user,False,
+mukadammh,Mustafa Mustafa,user,True,
+akashsharma02,Akash Sharma,user,False,
+giangnguyen95,Giang Nguyen,user,False,
+heyjustinai,justin lee,user,False,
+craymichael,Zach Carmichael,user,False,
+yaellegoldschlag,Yaelle Goldschlag,user,True,
+rutadesai,Ruta Desai,user,True,
+tonyfwu,Tony Wu,user,False,
+wideopenai,A,user,False,
+iman-setayesh,Iman Setayesh,user,False,
+kehanlyu,Kehan Lyu,user,False,
+revantteotiameta,Revant Teotia,user,False,
+jbschlosser,Joel Schlosser,user,True,NYC
+yorambac,Yoram Bachrach,user,False,
+tmasood,Taha Masood,user,False,
+JasonZheng20,Jason Zheng,user,True,
+yli1,Yang,user,False,
+famesenermeta,Fadime Sener,user,True,
+zechunliu,Zechun Liu,user,False,
+Tugsuu,Tugsbayasgalan Manlaibaatar,user,False,
+sspradhan,Siddhant Pradhan,user,False,
+smccrae,smccrae,user,False,
+ifed,Igor Fedorov,user,False,
+hpnair,Harideep Nair,user,False,
+yyshi,Yangyang Shi,user,False,
+jinooksong,JINOOK SONG,user,False,
+warmzephyr,Kai Li,user,False,
+saumishr,Saurabh Mishra,user,True,New York
+ericqumeta,Eric Qu,user,False,
+arkasadhu,Arka Sadhu,user,True,"Sunnyvale, CA, USA"
+amityadav99,Amit Kumar Singh Yadav,user,False,
+beauhartshorne,Beau Hartshorne,user,False,
+JunW62,Jun Wang,user,False,
+wesbz,Wassim Bouaziz,user,True,Paris' suburb
+edantoledo-meta,Edan Toledo,user,True,London
+lhaikin40,Lev,user,False,
+gschwind,Katharina Gschwind,user,False,
+edwardmoradian,Edward Moradian,user,True,Los Angeles
+kasianenko,Igor Kasianenko,user,False,
+tomsander1998,Tom Sander,user,False,
+viddeo66,David Vazquez,user,False,
+shreydesai,Shrey Desai,user,False,
+shengyi-qian,Shengyi Qian,user,True,"Seattle, WA"
+shlokmishra,shlok mishra,user,False,
+jzs-meta,Jiang,user,False,
+zyaoj,Julien Yao,user,True,PARIS
+xavierpuigf,Xavier Puig,user,True,San Francisco
+ortal1602,Or Tal,user,False,
+rgavigan,Riley Gavigan,user,True,"London, England, United Kingdom"
+shellysheynin,Shelly Sheynin,user,True,
+connory33,Connor Young,user,False,
+chillee,Horace He,user,False,
+valeriulacatusu,Valeriu Lacatusu,user,True,France
+adamoc,Adamo Carolli,user,False,
+1JasonP,Jason Putnam,user,False,
+andrewor14,Andrew Or,user,False,
+webalorn,Théophane Vallaeys,user,True,France
+dlicht,Daniel Licht,user,True,East San Francisco Bay Area

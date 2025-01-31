@@ -1,0 +1,18 @@
+username,name,role,has_github,location,gender
+tqchen,Tianqi Chen,user,False,,male
+hongyij,Hongyi Jin,user,True,Pittsburgh,male
+ruihanglai,Ruihang Lai,user,True,"Pittsburgh, United States",male
+zhye,Zihao Ye,user,True,"Seattle, WA",male
+Siyuan,Siyuan Feng,user,True,Shanghai,male
+junrushao,Junru Shao,user,True,California,male
+CharlieFRuan,Charlie Ruan,user,True,,unknown
+davidpissarra,David Pissarra,user,True,,male
+specrtrometer,Bohan Hou,user,False,,unknown
+guoyao,Guoyao Li,user,False,,unknown
+riczhou,Rick Zhou,user,False,,male
+kartik123t34253,Kartik Khandelwal,user,True,Pittsburgh,male
+hangruicao,HangruiCao,user,True,Pittsburgh,male
+mengshyu,Mengshiun Yu,user,True,"Pittsburgh, PA",unknown
+Tlopex,Shushi Hong,user,True,"Beijing, China",unknown
+neetnestor,Nestor Qin,user,True,Pittsburgh,male
+AMKCode,Man Kit Ao,user,True,"Pittsburgh, PA",unknown

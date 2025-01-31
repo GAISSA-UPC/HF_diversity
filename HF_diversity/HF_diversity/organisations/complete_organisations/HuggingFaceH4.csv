@@ -1,0 +1,42 @@
+username,name,role,has_github,location,gender
+lewtun,Lewis Tunstall,user,True,"Bern, Switzerland",male
+olivierdehaene,Olivier Dehaene,user,True,France,male
+lvwerra,Leandro von Werra,user,True,"Bern, Switzerland",male
+edbeeching,Edward Beeching,user,True,Lyon,male
+philschmid,Philipp Schmid,user,True,Nuremberg,male
+abhishek,Abhishek Thakur,user,True,127.0.0.1,male
+mishig,Mishig Davaadorj,user,True,"Paris, France",unknown
+loubnabnl,Loubna Ben Allal,user,True,"Paris, France",female
+srush,Sasha Rush,user,True,New York,female
+yjernite,Yacine Jernite,user,True,United States,male
+thomwolf,Thomas Wolf,user,True,,male
+SaylorTwift,Nathan Habib,user,True,Paris,male
+Wauplin,Lucain Pouget,user,True,,male
+regisss,Régis Pierrard,user,True,,male
+IlyasMoutawwakil,Ilyas Moutawwakil,user,True,"Paris, France",male
+derek-thomas,Derek Thomas,user,True,,male
+ysharma,yuvraj sharma,user,True,,male
+clefourrier,Clémentine Fourrier,user,True,France,female
+mcpotato,Luc Georges,user,True,France,male
+co42,Corentin Regal,user,True,Lyon FRANCE,male
+lysandre,Lysandre,user,True,Paris,male
+Narsil,Nicolas Patry,user,True,,male
+multimodalart,Apolinário from multimodal AI art,user,True,,male
+nouamanetazi,Nouamane Tazi,user,True,"Paris, France",male
+h4-dummy-user,H4,user,False,,unknown
+nsarrazin,Nathan Sarrazin,user,True,"Delft, NL",male
+abidlabs,Abubakar Abid,user,True,,male
+kashif,Kashif Rasul,user,True,"Berlin, Germany",male
+polinaeterna,Polina Kazakova,user,True,Paris,female
+dvilasuero,Daniel Vila,user,True,,male
+plaguss,Agustín Piqueres Lajarín,user,True,"Alicante, Spain",male
+alozowski,Alina Lozovskaya,user,True,Spain,female
+ClementRomac,Clément ROMAC,user,True,"Bordeaux, France",male
+alvarobartt,Alvaro Bartolome,user,True,"Barcelona, Spain",male
+qgallouedec,Quentin Gallouédec,user,True,"Lyon, France",male
+albertvillanova,Albert Villanova del Moral,user,True,Paris (France),male
+merve,Merve Noyan,user,True,Paris,female
+freddyaboulton,Freddy Boulton,user,True,Boston,male
+andito,Andres Marafioti,user,True,"Bern, Switzerland",male
+eliebak,Elie Bakouch,user,True,"Paris, France",male
+gabrielmbmb,Gabriel Martín Blázquez,user,True,Madrid,male

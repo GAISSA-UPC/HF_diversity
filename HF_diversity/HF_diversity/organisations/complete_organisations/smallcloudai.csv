@@ -1,0 +1,11 @@
+username,name,role,has_github,location,gender
+smallcloudteam,smallcloud,user,False,,unknown
+olegklimov,Oleg Klimov,user,False,,male
+reymondzzzz,Kirill Starkov,user,False,,male
+svakhreev,Sergei Vakhreev,user,True,"Australia, Adelaide",male
+mityasmc,Dimitrii,user,False,,male
+katek,Kate K,user,True,London,female
+maxsmc,Maksym Nevinchanyy,user,False,,male
+AgzamIA,IA,user,False,,unknown
+vscodes,Vadim Smirnov,user,False,,male
+MarcMcIntosh,Marc McIntosh,user,True,Paris,male

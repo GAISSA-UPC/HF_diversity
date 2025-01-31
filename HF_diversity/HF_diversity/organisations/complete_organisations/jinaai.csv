@@ -1,0 +1,23 @@
+username,name,role,has_github,location,gender
+,Nan Wang,user,True,Global,unknown
+bwang0911,Bo Wang,user,True,"Berlin, Germany",unknown
+michael-guenther,Michael Günther,user,False,,male
+isacat,Isabelle Mohr,user,True,,female
+hanxiao,Han Xiao,user,True,"Berlin, Germany",unknown
+jupyterjazz,Saba Sturua,user,True,Berlin,male
+zac-li,Li,user,False,,unknown
+gmastrapas,Georgios Mastrapas,user,True,"Athens, Greece",male
+koukandre,Andreas Koukounas,user,False,,male
+numb3r3,Felix,user,False,,male
+ziniuyu,Ziniu Yu,user,False,,unknown
+saahil-ognawala,Saahil Ognawala,user,True,Munich,male
+JoanFM,Joan Fontanals Martínez,user,True,"Barcelona, Spain",male
+florian-hoenicke,Florian Hönicke,user,True,Berlin,male
+scott-martens,Scott Martens,user,False,,male
+makram93,Mohammad Kalim Akram,user,False,,male
+SaZhang1,Sa Zhang,user,False,,unknown
+ajinauser,Andrei U,user,False,,male
+alexcg2,Bob Smith,user,False,,male
+Zesheng2,Shi,user,False,,unknown
+AaronJim,Aaron Ji,user,False,,male
+mwerk,Maximilian Werk,user,False,,male

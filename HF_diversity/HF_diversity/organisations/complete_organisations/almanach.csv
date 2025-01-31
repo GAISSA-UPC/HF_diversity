@@ -1,0 +1,15 @@
+username,name,role,has_github,location,gender
+sagot,Benoît Sagot,user,False,,male
+pjox,Pedro Ortiz Suarez,user,True,Paris,male
+uj,Julien Abadji,user,True,"Paris, France",male
+yvesconst,Yves TADJO,user,True,,unknown
+Djame,Djamé Seddah,user,True,,unknown
+wissamantoun,Wissam Antoun,user,True,Paris-France,male
+rntc,Rian Touchent,user,True,Paris,unknown
+nthngdy,Nathan Godey,user,True,,male
+Madjakul,Francis Kulumba,user,True,France,male
+RomanCast,Roman Castagné,user,True,France,male
+lydianish,Lydia Nishimwe,user,True,"Paris, France",female
+matthieufp,Matthieu Futeral,user,False,,male
+ponteineptique,Thibault Clérice,user,True,"Lyon, France",male
+smeoni,Simon Meoni,user,True,Paris,male
