@@ -1,0 +1,23 @@
+username,name,role,has_github,location,gender
+tiedeman,Jörg Tiedemann,user,True,,male
+hardwick,Sam Hardwick,user,True,Finland,male
+sshleifer,Sam Shleifer,user,True,New York,male
+Atnafu,Atnafu Lambebo Tonja,user,True,UAE | USA | Mexico | Ethiopia,male
+CM,Simin Chen,user,True,,female
+Hakimzenata,Hakim oubouali,user,True,ATLAS,male
+Ravneet,Ravneet Punia,user,True,"New Delhi, India",female
+Sangeetha,Sangeetha Venkatesan,user,True,"Syracuse, NewYork",female
+aksentijevich,Marko Aksentijević,user,False,,male
+talman-fi,Aarne Talman,user,True,,male
+jisx,Shaoxiong,user,False,,male
+ArthurZ,Arthur Zucker,user,True,,male
+annadmitrieva,Anna Dmitrieva,user,True,,female
+josephattieh,Joseph Attieh,user,False,,male
+aleraganato,alessandro raganato,user,False,,male
+albertvillanova,Albert Villanova del Moral,user,True,Paris (France),male
+danaroemling,Dana Roemling,user,True,Birmingham,female
+mathiascreutz,Mathias Creutz,user,True,,male
+teemuvh,Teemu,user,False,,male
+linguistickus,Timothee Mickus,user,True,,male
+jrvc,raul vazquez,user,False,,male
+odegiber,Ona de Gibert,user,True,,female

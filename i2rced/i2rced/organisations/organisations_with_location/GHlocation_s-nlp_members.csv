@@ -1,0 +1,14 @@
+username,name,role,has_github,location
+apanc,Alexander Panchenko,user,False,
+cointegrated,David Dale,user,True,Paris
+dardem,Daryna Dementieva,user,True,Munich
+etomoscow,Daniil Moskovskiy,user,True,"Moscow, Russia"
+msalnikov,Mikhail Salnikov,user,True,
+not-found,Daniel Bershatsky,user,True,"Moscow, Russia"
+vnsmv,Ivan Anisimov,user,True,Moscow
+memyprokotow,Sergey Pletenev,user,False,
+Sayankotor,Vika Chekalina,user,True,
+hle2000,Hai Le,user,True,"College Park, Maryland"
+andorei,Andrei Sakhovskii,user,False,
+IvanLazichny,Ivan,user,True,
+lmeribal,Rykov Elisei,user,True,Moscow

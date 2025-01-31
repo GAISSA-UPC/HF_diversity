@@ -1,0 +1,4 @@
+username,name,role,has_github,location,gender
+sileod,Damien Sileo,user,True,,male
+soniabadene,Sonia BADENE,user,False,,female
+imone,One,user,True,,unknown

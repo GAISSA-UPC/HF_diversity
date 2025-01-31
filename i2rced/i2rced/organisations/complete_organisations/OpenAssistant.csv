@@ -1,0 +1,31 @@
+username,name,role,has_github,location,gender
+ykilcher,Yannic Kilcher,user,True,,male
+ChristophSchuhmann,Christoph Schuhmann,user,False,,male
+onegunsamurai,Vladyslav Bukhantsov,user,True,,male
+andreaskoepf,Andreas Köpf,user,True,"Muenster, Germany, Europe",male
+theblackcat102,theblackcat102,user,True,"Taiwan, Taipei",unknown
+salexashenko,Sergey Alexashenko,user,True,,male
+huu-ontocord,Huu Nguyen,user,False,,male
+sanagnos,Sotiris Anagnostidis,user,True,,male
+SummerSigh,Summer,user,True,Hiding in the weights,female
+qwedsacf,Michael Vechtomov,user,False,,male
+batelicm,Matteo Batelic,user,True,,male
+dvruette,Dimitri,user,True,,male
+draganjovanovich,Dragan Jovanovic,user,True,,male
+sedthh,Richard Nagyfi,user,True,"Budapest, Hungary",male
+OllieStanley,Oliver Stanley,user,True,United Kingdom,male
+0x22almostEvil,David Glushkov,user,True,,male
+iurimatias,iuri matias,user,True,Canada,male
+thatblend,ThatBlendGuy,user,False,,unknown
+karan4d,karan4d,user,True,,unknown
+Aldrich,Arnav Dantuluri,user,True,,male
+TobiasPitters,Tobias Pitters,user,True,,male
+olivierdehaene,Olivier Dehaene,user,True,France,male
+jordiclive,Jordan Clive,user,True,London,male
+AbdBarho,AbdBarho,user,True,,unknown
+MrlolDev,MrlolDev,user,True,Spain,unknown
+thomwolf,Thomas Wolf,user,True,,male
+oasst-hfchat-bot,oasst-hfchat BOT,user,False,,unknown
+tju01,tju01,user,True,,unknown
+shahules786,Shahul Es,user,True,Terra,male
+bjoernp,Björn Plüster,user,True,,male

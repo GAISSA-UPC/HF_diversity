@@ -1,0 +1,8 @@
+username,name,role,has_github,location,gender
+mrocamora,Martín Rocamora,user,True,"Montevideo, Uruguay",male
+ffont,Frederic Font ,user,True,Barcelona,male
+rhythmspaces,Daniel Gómez,user,False,,male
+p-alonso,Pablo Alonso Jiménez,user,True,Barcelona,male
+PRamoneda,Pedro Ramoneda,user,True,,male
+dbogdanov,Dmitry Bogdanov,user,True,Barcelona,male
+bennoweck,Benno Weck,user,True,Munich,male
