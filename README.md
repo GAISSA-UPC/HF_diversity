@@ -15,12 +15,12 @@ Exploring the Role of Women in Hugging Face Organizations and Model Success
 │
 ├── docs               <- A default mkdocs project; see www.mkdocs.org for details
 │
+├── models             <- Notebooks and datasets regarding model election and Kappa computing
+|
 ├── notebooks          <- Jupyter notebooks. 
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         HF_diversity and configuration for tools like black
-│
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures        <- Generated graphics and figures to be used in reporting
