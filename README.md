@@ -15,8 +15,6 @@ Exploring the Role of Women in Hugging Face Organizations and Model Success
 │
 ├── datasets           <- Datasets
 |               
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
-│
 ├── models             <- Notebooks and datasets regarding model election and Kappa computing
 |
 ├── notebooks          <- Jupyter notebooks. 
