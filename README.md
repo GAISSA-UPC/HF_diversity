@@ -13,6 +13,8 @@ Exploring the Role of Women in Hugging Face Organizations and Model Success
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 │
+├── datasets           <- Datasets
+|               
 ├── docs               <- A default mkdocs project; see www.mkdocs.org for details
 │
 ├── models             <- Notebooks and datasets regarding model election and Kappa computing
