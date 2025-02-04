@@ -1,8 +1,9 @@
+""" Using both the HF and GitHub APIs to get GitHub information from the Hugging Face profile. """
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 
-# Set your GitHub Personal Access Token (PAT) here
 GITHUB_TOKEN = ""
 
 def get_github_from_huggingface(username):
@@ -30,7 +31,7 @@ def get_github_from_huggingface(username):
 
 def get_location_from_github(github_profile_url):
     headers = {
-        "Authorization": f"token {GITHUB_TOKEN}"  # Add authentication token to headers
+        "Authorization": f"token {GITHUB_TOKEN}" 
     }
 
     response = requests.get(github_profile_url, headers=headers)  # Pass the headers with token
@@ -44,24 +45,20 @@ def get_location_from_github(github_profile_url):
     location_section = soup.find(itemprop='homeLocation')  # Use 'homeLocation' for location info
     
     if location_section:
-        return location_section.get_text(strip=True)  # Extract the location text
+        return location_section.get_text(strip=True)
     else:
         return None
 
 def fetch_github_info_for_csv(csv_filename):
-    # Load the CSV file into a pandas DataFrame
     df = pd.read_csv(csv_filename)
     
-    # Check that there is a column with usernames
     if 'username' not in df.columns:
         print("CSV file must contain a 'username' column.")
         return
     
-    # Add new columns for GitHub location and whether GitHub profile was found
     df['has_github'] = False
     df['location'] = None
     
-    # Iterate over each username and fetch GitHub info
     for index, row in df.iterrows():
         hf_username = row['username']
         github_url = get_github_from_huggingface(hf_username)
@@ -74,7 +71,6 @@ def fetch_github_info_for_csv(csv_filename):
         else:
             df.at[index, 'has_github'] = False
     
-    # Save the updated DataFrame back to CSV
     updated_csv_filename = f"updated_{csv_filename}"
     df.to_csv(updated_csv_filename, index=False)
 

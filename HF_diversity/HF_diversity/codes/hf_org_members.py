@@ -1,7 +1,7 @@
+""" Using the HF API to fetch information about the members of the studied organizations. """
+
 import requests
 import csv
-
-# Set your Hugging Face token here
 
 
 def get_org_members(org_name):
@@ -21,9 +21,9 @@ def get_org_members(org_name):
     members = []
     
     for member in members_data:
-        username = member.get("user", "")  # "user" is a string here, not a dict
-        name = member.get("fullname", "")  # "fullname" contains the full name
-        role = member.get("type", "")  # Assuming the "type" field represents the role
+        username = member.get("user", "")
+        name = member.get("fullname", "")
+        role = member.get("type", "")
         members.append((username, name, role))
     
     return members
