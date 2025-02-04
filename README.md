@@ -15,12 +15,10 @@ Exploring the Role of Women in Hugging Face Organizations and Model Success
 │
 ├── docs               <- A default mkdocs project; see www.mkdocs.org for details
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── notebooks          <- Jupyter notebooks. 
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         i2rced and configuration for tools like black
+│                         HF_diversity and configuration for tools like black
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
 │
