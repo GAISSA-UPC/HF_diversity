@@ -2,7 +2,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
-PROJECT_NAME = I2RCED
+PROJECT_NAME = HF_diversity
 PYTHON_VERSION = 3.10
 PYTHON_INTERPRETER = python
 
