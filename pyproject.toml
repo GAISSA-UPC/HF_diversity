@@ -1,9 +1,9 @@
 [project]
-name = "i2rced"
+name = "HF_diversity"
 version = "0.0.1"
 description = "Exploring the Role of Women in Hugging Face Organizations and Model Success"
 authors = [
-  { name = "Maria Tubella Salinas" },
+  { name = "M" },
 ]
 
 readme = "README.md"
