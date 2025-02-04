@@ -9,7 +9,6 @@ Exploring the Role of Women in Hugging Face Organizations and Model Success
 ## Project Organization
 
 ```
-├── LICENSE            <- Open-source license if one is chosen
 ├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 │
