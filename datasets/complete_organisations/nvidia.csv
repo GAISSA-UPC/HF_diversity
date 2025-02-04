@@ -1,0 +1,1410 @@
+username,name,role,has_github,location,gender
+jdemouth,Julien Demouth,user,True,Paris,male
+michwang,Michael Wang,user,False,,male
+shangz,Shang Zhang,user,False,,male
+BoLiu,Bo Liu,user,True,,unknown
+okuchaiev,Oleksii Kuchaiev,user,True,"Santa Clara, CA",male
+wuxianchao,Xianchao Wu,user,True,Tokyo,male
+shalinidemello,Shalini De Mello,user,True,San Francisco,female
+eharper,Eric Harper,user,True,Greater Denver Area,male
+smajumdar94,Somshubra Majumdar,user,True,"San Jose, CA",male
+rleary,Ryan Leary,user,True,Atlanta,male
+nithinraok,Nithin Rao Koluguri,user,True,San Francisco Bay Area,male
+phtran,Phuoc Tran,user,False,,unknown
+yzhang123,Yang Zhang,user,False,,unknown
+jbalam-nv,Jagadeesh Balam,user,True,SF Bay Area,male
+subhankarg,Subhankar Ghosh,user,True,"Santa Clara, CA",male
+vnoroozi,Vahid Noroozi,user,False,,male
+jocelynh,Jocelyn Huang,user,True,San Jose,female
+erastorgueva-nv,Elena Rastorgueva,user,True,,female
+meghmak13,Megh Makwana,user,False,,unknown
+steveheh,He Huang,user,False,,unknown
+nbarotnvidia,Nitinkumar Barot,user,False,,male
+dpykhtar,Dmytro Pykhtar,user,True,"Kyiv, Ukraine",male
+anteju,Ante Jukic,user,False,,male
+ChrisMLroy,Chris Milroy,user,False,,male
+avinashahuja,AvinashAhuja,user,True,,male
+btuttle,Brandon Tuttle,user,True,Midwest,male
+mingyuliutw,Ming-Yu Liu,user,True,United States,unknown
+aklife97,Abhinav Khattar,user,True,,male
+chenhsuanlin,Chen-Hsuan Lin,user,True,"Santa Clara, CA",unknown
+nzmora,Neta Zmora,user,True,,female
+Gorgarik,Zelenfroynd George,user,True,,unknown
+fayejf,Fei Jia,user,True,,unknown
+vikashk,Vikash Kumar,user,False,,male
+Victor49152,Mingyuan Ma,user,True,,male
+sasha-meister,Sasha Meister,user,False,,unknown
+igitman,Igor Gitman,user,True,US,male
+SidSharma,Siddharth Sharma,user,False,,male
+kmcgrath,Kyle McGrath,user,False,,male
+HeatherNV,Heather Schoell,user,False,,female
+DoraCs,DCsillag,user,False,,unknown
+orperel,Or Perel,user,False,,unknown
+Rogelioolguin,Rogelio Olguin,user,False,,male
+jcostello,Johnny Costello,user,False,,male
+abelbrown,Abel Brown,user,False,,male
+yangw,andy wang,user,False,,male
+pavanimajety,Pavani Majety,user,True,"Santa Clara, CA",female
+pjudd,Patrick Judd,user,False,,male
+prakruthigowda,Prakruthi B Gowda,user,False,,female
+grvgrg,Gaurav Garg,user,False,,male
+jgangani,Jatin Gangani,user,False,,male
+cklee-nvidia,Cheng-Kuang Lee,user,False,,male
+itabrizian,Iman,user,False,,unknown
+adegirmenci,Alperen Degirmenci,user,True,NYC,male
+nv-kmcgill53,Kyle McGill,user,False,,male
+lfraseroo,Lee Fraser,user,False,,unknown
+sdenton,Scott Denton,user,False,,male
+Salux,Travis Wilson,user,False,,male
+thepooya,Pooya Ghobadpour,user,False,,male
+nvsam,SamCheng,user,False,,male
+janickm,Janick Martinez Esturo,user,True,Germany,male
+brianpz,Brian Perez,user,False,,male
+Lomarquis,Louis Marcoux,user,False,,male
+aloysbaillet,Aloys Baillet,user,True,Australia,male
+nkorobov,Nikita Korobov,user,False,,male
+nshadrin,Nikolay Shadrin,user,False,,male
+Davidoer,David_Lu,user,False,,male
+benj79b,BAYART Benjamin,user,False,,male
+weiqisun,Weiqi Sun,user,False,,unknown
+vigorcao,vigor cao,user,False,,unknown
+kevbubba,Bubba Lombardi,user,False,,male
+haileywestphal,hailey westphal,user,False,,female
+Anbang,Anbang Xu,user,False,,unknown
+jasxu,Jason Xu,user,False,,male
+aandrusenko,Andrei Andrusenko,user,False,,male
+mbabcock,Michael Babcock,user,False,,male
+fxiong,Fernando Xiong,user,False,,male
+mcragun,Matthew,user,True,Santa Clara,male
+trebedea,Traian Rebedea,user,False,,male
+Yi72,Dong,user,False,,male
+Nirmalya,De,user,False,,unknown
+haoranw,haoranwang,user,True,shanghai,male
+nvpohanh,Po-Han Huang,user,True,,unknown
+jisraeli,johnny israeli,user,False,,male
+samay58,Samay Dhawan,user,False,,unknown
+klevtsov,Sergey Klevtsov,user,True,"Stanford, CA",male
+Gwangsoo,Hong,user,True,Seoul,male
+subhashreer,Subhashree Radhakrishnan,user,True,,female
+nv-sam,Samuel Kriman,user,False,,male
+nkant,Neel Kant,user,False,,unknown
+harsharma,Harsh Sharma,user,True,,male
+darren236,Tan Sheng Hui Darren,user,False,,male
+daisyg,Daisy Gao,user,False,,female
+jmitch5,Jonathan Mitchell,user,True,Los Angeles,male
+henryclever,Henry M. Clever,user,False,,male
+fouriertransform,Terry Kong,user,False,,unknown
+mayani,Mohit Ayani,user,False,,male
+trias702,Daniel Egert,user,False,,male
+jupinderp,Jupinder Parmar,user,False,,male
+yipenglinoe,yipeng li,user,False,,male
+richharang,Rich Harang,user,False,,male
+jolucas,Joe Lucas,user,False,,unknown
+prwwrp1,Pwoods,user,False,,unknown
+t9792734589,Tim S,user,False,,unknown
+jalbericiola,Jorge Albericio,user,False,,male
+nv-kyamasaki,Kazuhiro Yamasaki,user,False,,male
+triptis,Tripti Singhal,user,False,,female
+sumitb,Sumit Bhattacharya,user,False,,male
+ptarasiewicz,Piotr Tarasiewicz,user,True,,male
+nvzeroz,Zero Z,user,False,,unknown
+tkubota,Takashi Kubota,user,False,,male
+bberlin,Ben Berlin,user,False,,male
+keviddles,Kevin Scott,user,False,,male
+smkohler,Sean Kohler,user,False,,male
+asfiyab,Asfiya Baig,user,False,,female
+jfsantos,Joao Felipe Santos,user,True,"Vancouver, BC, Canada",male
+farhadrgh,Farhad Ramezanghorbani,user,True,"New York, NY",male
+WaterKing,Daniel Barnes,user,False,,male
+kaix90,Kai Xu,user,False,,unknown
+avasquez,Allyson Vasquez,user,False,,female
+ukpa,Unnikrishnan Patel,user,False,,male
+Venkata1,Duvvuri,user,False,,unknown
+Annamalai,Annamalai Chockalingam,user,False,,male
+mszczesny,Mateusz Szczęsny,user,True,"Łódź, Poland",male
+Benika,Benika Hall,user,False,,female
+arunraman,Arun Raman,user,True,"Santa Clara, CA",male
+andyp-nvidia,Sang Hyun Park,user,False,,male
+nada5,Chankyu Lee,user,False,,unknown
+jyuan1118,Jianhe Yuan,user,False,,unknown
+nv-braf,Brian Raf,user,True,,unknown
+bjmcglynn,Brian McGlynn,user,True,"Ashburn, VA",male
+jsainz,Johnny Sainz,user,False,,male
+bxbxbx,Bill Xu,user,False,,male
+agandavarapu,G,user,False,,unknown
+sailm,Sailaja M,user,False,,female
+CooliusMaximusnv,Chris Hebert,user,False,,male
+fpliu,Frankie Liu,user,False,,unknown
+nvzhihanj,Zhihan Jiang,user,True,Santa Clara,unknown
+hang401,Hang Su,user,False,,unknown
+riverliu,River Liu,user,True,"Shanghai, China",unknown
+ikarmanov,Ilia Karmanov,user,False,,male
+mranzinger,Mike Ranzinger,user,False,,male
+jinhosuh,Jinho Suh,user,True,,male
+jzakrzewski,Jakub Zakrzewski,user,True,,male
+zhby99,Boyin Zhang,user,True,"Beijing, China/Santa Clara, CA, US",male
+hanw,wang,user,False,,unknown
+shuyuelan,Shuyue Lan,user,False,,female
+mgambhir,Mohit Gambhir,user,False,,male
+admantri,Aditya Anulekh Mantri,user,False,,male
+muntasers,muntaser,user,True,,male
+ashantharam,Achal Shantharam,user,False,,male
+myrond,muyang du,user,False,,unknown
+yuekaiz,Yuekai Zhang,user,False,,unknown
+pattyd0319,Patty Delafuente,user,False,,female
+FelixddddXi,Felix Xi,user,False,,unknown
+kshih,Kevin Shih,user,True,,male
+prajvanshi,Puranjay Rajvanshi,user,False,,male
+asettle,Alex Settle,user,True,Portland OR,male
+IzzyPutterman,Izzy Putterman,user,False,,unknown
+pritamb,Pritam Biswas,user,False,,male
+nkarpov,Nikolay,user,True,"Armenia, Yerevan",male
+shangru,Shangru Li,user,False,,unknown
+nv-ngargi,Nachi G,user,False,,unknown
+msskumi,Santosh,user,False,,unknown
+sjunkin,Scot,user,False,,unknown
+ritviksingh9,Ritvik Singh,user,False,,male
+ykguo,Andrew Y. Guo,user,True,"Vancouver, BC, Canada",male
+kunaldhawan,Kunal Dhawan,user,True,"San Jose, California",male
+soumye,Soumye Singhal,user,True,"Toronto, Canada",male
+Myungjong,Kim,user,False,,unknown
+bmwshop,Dima,user,True,United States,male
+jinggui,zhang,user,False,,male
+claireliang,claire,user,False,,female
+charlesbb,CharlesCheung,user,False,,male
+jswartz,Jonathan Swartz,user,True,New Zealand,male
+bdudashnv,Bryan Dudash,user,False,,male
+qikail,Qikai Li,user,True,,unknown
+dongxuy,Dongxu Yang,user,False,,male
+anuragrs,Anurag Singh,user,False,,male
+Tosin-A,Omisore,user,False,,unknown
+jhandzik,Joe Handzik,user,False,,male
+ggentile,Giovanni Gentile,user,False,,male
+sanjgupta,sanjay gupta,user,False,,male
+kyip,Kenneth Yip,user,False,,male
+spanev,Serge Panev,user,True,Seoul,male
+SauMishra,SM,user,False,,unknown
+glyang,Yang,user,False,,male
+gwilknvidia,Grant Wilk,user,False,,male
+riship-nv,Rishi Puri,user,True,SF Bay Area,male
+lige2023,Li Ge,user,False,,male
+chenjiel,Chenjie Luo,user,False,,unknown
+rtaneja,Rohit Taneja,user,False,,male
+kashkk,Kash K,user,False,,unknown
+Ericlei,Kuang,user,False,,male
+andrewyx,Andrew Zhu,user,False,,male
+jialinsong,Jialin Song,user,False,,unknown
+calvinlin,Calvin Lin,user,False,,male
+kevalmorabia97,Keval Morabia,user,True,India,male
+okarelia,Ojus Karelia,user,False,,unknown
+liangoaix,lia liang,user,False,,female
+DC-Shi,Daochen SHi,user,False,,unknown
+vjeyakumar,Vikranth Jeyakumar,user,False,,male
+gmammadov,Gafur Mammadov,user,False,,male
+Tom94,Thomas Müller,user,True,"Zürich, Switzerland",male
+gnishant95,Nishant Gupta,user,False,,male
+lspindler,Luca,user,True,Cologne,male
+jtcasablanca,jonathan whitehouse,user,True,,male
+raykallen,Rachel Allen,user,True,,female
+GrumpyZhou,Qunjie Zhou,user,True,,unknown
+rstober,Robert Stober,user,True,"Alaska, USA",male
+rocsanz,Rocio Sanchez,user,True,,female
+daxmu,liu,user,False,,unknown
+kitJenNV,Jen Borucki,user,False,,female
+ajaykarandikar,Ajay Karandikar,user,False,,male
+JosselinSR,Josselin  Somerville Roberts,user,True,Stanford University,male
+Atenlab,Atenlabuser,user,False,,unknown
+rajeevrao,Rajeev Rao,user,True,"Santa Clara, CA",male
+libindavis,Jeremy Li,user,False,,male
+bfuhrer,benjamin fuhrer,user,False,,male
+laikh-nvidia,Laikh Tewari,user,True,,unknown
+dorali,Dora Li,user,False,,female
+nvjatin,Khare,user,False,,unknown
+Pirlouis,David Ruau,user,False,,male
+nvlcambier,Leopold Cambier,user,True,"Santa Clara, CA, USA",male
+parth29,Parth Chadha,user,False,,male
+maximilianm,Maximilian Mueller,user,True,Aachen,male
+lasirona,Robert Lasirona,user,True,,male
+Luke20,Zheng,user,False,,male
+lvaidya,Lalit Vaidya,user,False,,male
+cxlcxll,cxl cxl,user,False,,unknown
+msg-irfan,Irfan M S G,user,True,India,male
+chdu,Cheng-Han Du,user,False,,unknown
+polluxxx,Yu,user,False,,unknown
+rh-nv,Rakib Hasan,user,False,,unknown
+NVincent,Wang,user,False,,male
+magicyoung8,Xuesong Yang,user,True,"Seattle, WA",male
+Framedvision,Sabour Amirazodi,user,False,,unknown
+luxiaoz,Luxiao Zheng,user,False,,unknown
+kangqi,Kangqi Tang,user,True,Beijing,unknown
+ahatamiz,Ali,user,True,,unknown
+pmolchanov,Pavlo,user,False,,male
+Fazundo,Erik Bohnhorst,user,False,,male
+gpasandi20,Ghasem Pasandi,user,True,Los Angeles,male
+intheDC,Brian Carpenter,user,True,,male
+tandrew,Tom Andrew,user,False,,male
+brnguyen,Brian Nguyen,user,False,,male
+carangionv,Chris Arangio,user,False,,male
+huizimaonv,Huizi Mao,user,False,,unknown
+Vinhnguyenx,Nguyen,user,False,,unknown
+hpardeshi,Harsh Pardeshi,user,False,,male
+grclark,Greg Clark,user,False,,male
+ytseng,Yu-Hsuan Tseng,user,False,,unknown
+milesial,Alexandre Milesi,user,False,,male
+sohinir,Sohini,user,False,,female
+gheinrich,Greg Heinrich,user,False,,male
+TheDetective,Raman,user,True,,male
+frankd1182,Frank Di Natale,user,True,SF Bay Area,male
+andrliu0426,KuanLiangLiu,user,False,,male
+brochz,Zhang,user,False,,male
+yenshiw,Yen-Shi Wang,user,False,,unknown
+jtman7,Jason Tichy,user,False,,male
+dgarach,Dee Gee,user,False,,unknown
+jiefang27,Jie-Fang Zhang,user,False,,unknown
+pmannan,Parth Mannan,user,False,,male
+stsun,Stanley Sun,user,False,,male
+sushisauce,sydney kropp,user,False,,unknown
+Victor-GW-LI,Victor Li,user,False,,male
+GSSBMW,GSSBMW,user,False,,unknown
+avem,Avinash Vem,user,True,,male
+panosl1,Panos Lampropoulos,user,True,,male
+jingyux-nv,Jingyu,user,False,,unknown
+imadrigal,Inaki Madrigal,user,True,,unknown
+tfeliciano2,Trevor Feliciano,user,False,,male
+sliding-bazinga,Malte,user,False,,unknown
+arthurzzZ,zhong,user,False,,unknown
+mgrewal,Michael Grewal,user,False,,male
+fsaracino,Francesco Saracino,user,False,,male
+deustice,Dylan Eustice,user,False,,male
+davidmnv,David Mosallanezhad,user,True,"Tempe, AZ",male
+kshitizgupta21,Kshitiz Gupta,user,False,,male
+nealv,Neal Vaidya,user,False,,male
+edwli,Edward Li,user,False,,male
+cecilia278,cecilia bi,user,False,,female
+guyueh1,Guyue Huang,user,False,,unknown
+jfpuget,Jean-Francois Puget,user,False,,male
+rshetty11,Rajath Shetty,user,False,,male
+darkwolf2077,BillZ,user,False,,unknown
+anuj0109,Dubey,user,False,,unknown
+skarunaratne-nv,Samurdhi Karunaratne,user,False,,unknown
+nstephon,Nate Stephon,user,False,,male
+ejansen,Eddo Jansen,user,False,,unknown
+Avinashc,Chakravarthi,user,False,,male
+vishalmehta1991,Vishal Mehta,user,True,Zurich,male
+aaronlsmith,Aaron Smith,user,True,"Denver, CO",male
+joshmartinez,Joshua Martinez,user,False,,male
+Mengyao00,Mengyao Xu,user,False,,female
+akp1105,Akshay Pathak,user,False,,male
+howardho,Howard Ho,user,True,"Santa Clara, CA",male
+kirkog86,Kirill Kogan,user,False,,male
+rrv01,Ro Vv,user,False,,unknown
+yeoNvidia,jq,user,False,,unknown
+nv-rkiguru,Raymond Kiguru,user,False,,male
+Fuzzkatt,Patrick Wang,user,True,,male
+ilyasher,Ilya Sherstyuk,user,False,,male
+leewyang,Lee Yang,user,False,,unknown
+dharmendrac,Dharmendra Choudhary,user,False,,male
+dolphinweiqi,Yan,user,False,,unknown
+ageva,Adi Geva,user,False,,unknown
+william-efstratis,William Efstratis,user,False,,male
+SubhanAli,Subhan Ali,user,False,,male
+aswkumar,Aswinkumar,user,False,,male
+arham19,Arham Mehta,user,False,,male
+snisimov,shami nisimov,user,False,,unknown
+lizhizhou,Lizhi Zhou,user,False,,unknown
+shengfang,shengfang,user,False,,unknown
+peri044,Dheeraj Peri,user,True,"California, USA",male
+pbehnam,Payman Behnam,user,False,,male
+akuls,Akul Santhosh,user,False,,male
+wdi-nvidia,Di Wu,user,False,,unknown
+shuver,Sean Huver,user,True,East Coast,male
+thhaus,Ao Tang,user,False,,unknown
+benfred,Ben Frederickson,user,True,"Vancouver, BC, Canada",male
+gtong,Gangzheng Tong,user,False,,unknown
+ryan53,x,user,False,,unknown
+lirundong,Rundong Li,user,True,"Shanghai, China",male
+shls,Luo,user,False,,male
+nvrelisei,Ryan Elisei,user,False,,unknown
+dfridman,Denys Fridman,user,False,,male
+asmabeevi,Asma Beevi Kuriparambil Thekkumpate,user,False,,female
+mreyesgomez,Manuel J. Reyes Gomez,user,True,,male
+adener,Alp Dener,user,True,"Chicago, IL",male
+mwittwer,Matthew Wittwer,user,False,,male
+JonZhang9636,John,user,False,,unknown
+Meiran,Peng,user,False,,unknown
+jcullen,Joe Cullen,user,False,,male
+ananthsankar,Ananth Sankarasubramanian,user,False,,male
+hehanyue,Hanyue He,user,False,,unknown
+rmccormick,Ryan McCormick,user,True,"San Jose, CA",male
+abhisawa,Abhishek,user,False,,male
+sandreddy,Sandeep,user,False,,male
+joanna123,Joanna yang,user,False,,female
+jiynv,Ji Yin,user,False,,unknown
+nazlis,NZ,user,False,,unknown
+jbkyang,KY,user,False,,unknown
+guyjacob,Guy Jacob,user,True,,male
+ericliu-hf,Eric Liu,user,False,,male
+shail-s,Shailendra Singh,user,False,,male
+blong,Bryce Long,user,False,,male
+Kaiyux,Kaiyu,user,False,,unknown
+lingfeng2022,Lingfeng Tu,user,False,,male
+dhall,David Hall,user,True,"Lafayette, CO",male
+azook,A Z,user,False,,unknown
+robdaly,Rob Daly,user,False,,unknown
+falebachew,Fitsum Alebachew,user,True,,male
+kingsleyl,Kingsley Liu,user,False,,male
+tdene,Teodor-Dumitru Ene,user,False,,male
+mancomaojinsong,mao,user,False,,unknown
+Mujojojo,Wang,user,False,,unknown
+okdimok,Dmitry Mironov,user,True,,male
+jiaqiz,jiaqiz,user,False,,unknown
+helix979,Jinkyu Koo,user,False,,male
+amparocanaveras,Maria Amparo Canaveras Galdon,user,False,,female
+Cmiya,Cmiya,user,False,,unknown
+kejones,Kevin Jones,user,True,"Poquoson, VA",male
+davidchunv,David Chu,user,False,,male
+trneb,Brent Bartlett,user,False,,male
+cyato,Chitoku Yato,user,True,"Santa Clara, CA",unknown
+eagostini,eagostini,user,False,,unknown
+mickaelseznec,Mickaël Seznec,user,True,,male
+WilliamTu,Tu,user,True,,unknown
+sshaiham,Shanzid Shaiham,user,True,,unknown
+bhuvan-nv,Bhuvan Agrawal,user,False,,male
+amalegaonkar,ashutosh m,user,False,,male
+jcurtin,Jack Curtin,user,False,,male
+hsiehjackson,Cheng-Ping Hsieh,user,True,,male
+dyastremsky,David,user,False,,male
+adi20f,Aditya Chaudhry,user,False,,male
+vmedisetti,Abhiram Medisetti,user,False,,male
+nvhshin,Hoo Chang Shin,user,False,,unknown
+nvhroth,Holger Roth,user,False,,male
+koalalesque,Christian Hundt,user,False,,male
+wgao2023,William Gao,user,False,,male
+jtomsia,Jakub Tomsia,user,False,,male
+mmalhotra99,Manvi Malhotra,user,False,,female
+NathanWaaang,Wang,user,False,,male
+jcupupup,jcx,user,False,,unknown
+alex-steph,Alex Stephens,user,True,,unknown
+dahsu,Darren Hsu,user,False,,male
+asurla1998,Annie Surla,user,False,,female
+leondz,Leon Derczynski,user,True,Copenhagen · Seattle,male
+shenneman,Seth Henneman,user,False,,male
+lbishop,Lars Bishop,user,False,,male
+mferrato,Mauricio Ferrato,user,False,,male
+kauravin,Avinash Kaur,user,False,,female
+mengxiwu-nv,Mengxi  Wu,user,False,,female
+risaac,Ron Isaac,user,False,,unknown
+mbruehl,Matt Bruehl,user,False,,male
+deemod,Bo Deng,user,False,,male
+roclark,Robert Clark,user,True,"Houston, TX",male
+joshwyatt,joshua wyatt,user,False,,male
+michaelstoby,Michael Davies,user,False,,male
+zpatel,Zac Patel,user,True,,male
+SDrake,Sagar ,user,False,,unknown
+mollys-nv,Molly Smith,user,False,,female
+esnvidia,emanuel scoullos,user,False,,male
+sidkoch,siddhant kochrekar,user,False,,male
+jwolfanger,Jeffrey Wolfanger,user,False,,male
+harsh1492,Harsh Aggarwal,user,False,,male
+deepshekhar03,Deep Shekhar,user,False,,unknown
+pranavm-nvidia,Pranav Marathe,user,False,,male
+tjohnsen,Thor Johnsen,user,True,"Houston, TX",male
+rogliu,Roger Liu,user,False,,male
+acc-mu3n,Mana Murakami,user,True,,female
+anuradha-karuppiah,Anuradha Karuppiah,user,True,"San Jose, California",female
+tibrewalrachit,Rachit Tibrewal,user,False,,male
+martasd,Marta SD,user,True,,female
+sbalaraman,Subha Balaraman,user,False,,female
+sheidelberg,Steve Heidelberg,user,False,,male
+danielnv,Daniel Swartz,user,False,,male
+gkarch,Grzegorz Karch,user,True,,male
+kcvetanov,Konstantin Cvetanov,user,False,,male
+cjayidoko,Chijioke Idoko,user,False,,male
+mskarthik,Karthik Mandakolathur,user,False,,male
+pdmack,Pete MacKinnon,user,True,Raleigh NC,male
+arunvenkatesan,Arun Venkatesan,user,False,,male
+nv-hwoo,Hyunjae Woo,user,False,,male
+theasianvan,Alex Van,user,False,,unknown
+dbermudez,Daniel Bermudez,user,False,,male
+jjdiep,Justin Diep,user,False,,male
+vavyas,Vaibhav Vyas,user,False,,male
+cy823236858,YU CHEN,user,False,,unknown
+luwu001,luis wu,user,False,,male
+mahmnv,Mahesh M,user,False,,male
+LeeBu,Lee Bushen,user,False,,unknown
+RoopMukherjee,Roop Mukherjee,user,True,,unknown
+cuichenx,Chen Cui,user,True,"Santa Clara, CA",unknown
+acesri,Ram,user,False,,unknown
+rishizeki,Riei Ishizeki,user,False,,female
+mnm141987,Manasa N Murthy,user,False,,female
+MahmoudNV,EL GHOMARI,user,True,,unknown
+ramonah,Ramona H,user,False,,female
+sestephens-nv,Sean Stephens,user,False,,male
+nikkipope,Nikki Pope,user,True,,female
+matthewkotila,Matthew Kotila,user,False,,male
+prashantsohani,Prashant Sohani,user,False,,male
+alex0dd,Alex Olmucci,user,True,"Warsaw, Poland",male
+nuttty1,Mark J Bennett,user,False,,male
+sanjeevnv,Sanjeev,user,False,,male
+ykrishnap,Krishna Yalamarthy,user,True,,male
+psaha21,Puja Saha,user,False,,female
+Qiushi333,Qiushi Xie,user,False,,unknown
+spartan973,Sai Teja Padakandla,user,False,,male
+nlevin,Nir Levin,user,False,,male
+nvmog,Mohit Garg,user,False,,male
+daveta,Dave T,user,True,,unknown
+mmmorgan,herbert,user,False,,male
+qianxiao2,Qian Xiao,user,False,,unknown
+vvasu,Visha Vasu,user,False,,unknown
+nikkulkarni,Nikhil Kulkarni,user,False,,male
+RestingCodeFace,Michael Boone,user,False,,male
+peterzby,boying zhu,user,False,,male
+gracehonv,Grace Ho,user,False,,female
+JoeyCai001,Joey Cai,user,False,,male
+balaji7,Balaji Ganesan,user,False,,male
+cdbg,Caroline,user,False,,female
+ZXCroon,Carl Cai,user,False,,male
+afarjallah,Asma Farjallah,user,False,,female
+MengWang,Wang,user,False,,male
+lijingticy2,Tina Li,user,False,,female
+Void-Z,Void,user,False,,unknown
+bleiweiss,Amit Bleiweiss,user,False,,male
+wojciech06,P,user,False,,unknown
+jrd971000,Ali Taghibakhshi,user,False,,male
+Aaditya121,Shukla,user,False,,unknown
+sjaviya,Sean J,user,True,,male
+njain067,Nitesh Jain,user,False,,male
+yiroa,yiroa,user,False,,unknown
+chenzhehuai,Zhehuai Chen,user,True,,male
+yenchenl-nvidia,Yen-Chen Lin,user,False,,unknown
+apurba694,Apurba Bose,user,False,,unknown
+shashankv,Shashank Verma,user,False,,male
+Zitongs,Zitong Su,user,False,,unknown
+sidnv,Sid Samsi,user,False,,unknown
+aharpster,Andrew Harpster,user,False,,male
+cparisien,Chris Parisien,user,False,,male
+ahazare,Akshay Hazare,user,False,,male
+mraza,Mohammad Raza,user,False,,male
+viraat57,Viraat Chandra,user,False,,male
+rgangele,Renu Gangele,user,False,,female
+whitebaidu,Bob Chen,user,False,,male
+eshi2023,evan shi,user,False,,male
+quicksilver0311,Jay Shah,user,True,"Chandler, AZ",male
+khubaib92,Khubaib Khubaib,user,False,,unknown
+antarab,Antara Basu,user,False,,female
+viviennezhang,VivienneZhang,user,False,,female
+ruqingx,Ruqing Xu,user,True,"Minato, Tokyo",unknown
+radhikar,Rubina Adhikari,user,False,,female
+erhoo,Sangkug Lym,user,False,,unknown
+nvslechta,Brian Slechta,user,True,"Portland, OR USA",male
+xrennvidia,Xiaowei Ren,user,False,,unknown
+nirnir,nvidia,user,False,,unknown
+odelalleau,Olivier Delalleau,user,True,,male
+liorbenhorin-nv,lior ben horin,user,False,,male
+jmaki,James Maki,user,False,,unknown
+edknv,Edward K,user,False,,unknown
+jiemingz,Jimmy Zhang,user,False,,male
+thecuriousperspective,Akshit Arora,user,False,,male
+pochunlai,Po Chun Lai,user,False,,unknown
+jeffpeng,Jeff Peng,user,False,,unknown
+kgreen1200,Kevin Green,user,False,,male
+avayukta,vartika singh,user,False,,female
+NvVlad,Vladimir Bondarev,user,False,,male
+kmo-nvidia,Kaichun Mo,user,False,,unknown
+ozzy-nv,Ozzy Johnson,user,False,,unknown
+VishwasG,Pai,user,False,,unknown
+piotrzelasko,Piotr Żelasko,user,True,"~Miami, FL",male
+sochoa,Samuel Ochoa,user,False,,male
+Chungc,Chung Ming,user,False,,male
+jroorda,Joshua Roorda,user,False,,male
+erickgalinkin,Erick Galinkin,user,True,,male
+msawai,Masaki Sawai,user,False,,unknown
+vekapex,Vladislav Kozlov,user,True,,male
+tousif111,Syed Ahmed,user,False,,male
+jiahongl,Jiahong Liu,user,False,,unknown
+huangyu-nv,zidanehuang001,user,False,,male
+Nune1,Nune Tadevosuan,user,False,,unknown
+hshteingart,Hanan,user,False,,female
+byshiue,BoYang Hsueh,user,False,,male
+AlienFaceHuggerNSM,Naveen SM,user,False,,male
+dcampora,Daniel Campora,user,True,,male
+jzazula,Jonathan Zazula,user,True,,male
+cicyle,antony pinto,user,False,,male
+niralp-nv,Niral Pathak,user,False,,unknown
+mkumari,Mamta Kumari,user,False,,female
+vlavrukhin,Vitaly Lavrukhin,user,False,,male
+pbosowski,Piotr Bosowski,user,False,,male
+Amandazhang19,Amanda,user,False,,female
+cschied,Christoph Schied,user,False,,male
+Aman1215,Aman Kaur,user,False,,female
+t-fi,tobi,user,False,,unknown
+wgao2021,Wenwen Gao,user,True,,female
+HuihuiLucy,Lucy Wang,user,False,,female
+pengs,peng sun,user,False,,unknown
+asachdev,Ashish Sachdev,user,False,,male
+ahota,Aditya H,user,False,,male
+ysimeonov,Simeonov,user,False,,male
+leongh,Leong He,user,False,,unknown
+akoumpa,Alexandros Koumparoulis,user,False,,male
+bkeyzers,Benedikt Keyzers,user,False,,male
+mriddick,Medicus Riddick,user,False,,male
+jneuhaus,Jon Neuhaus,user,False,,male
+jubetz,justin betz,user,False,,male
+zryan,zoe ryan,user,False,,female
+shubhadeepd,Shubhadeep Das,user,True,,male
+drazvan,Razvan Dinu,user,True,"Bucharest, Romania",male
+nnshah1,Neelay Shah,user,True,,male
+jlombardo,Jennifer Lombardo,user,False,,female
+nv-jeff,jeff Smith,user,True,"Redmond, WA",male
+nilkumar,Nilesh Kumar,user,False,,male
+timn8or,Tim Woodard,user,False,,male
+jcleaf,Jonathan Leaf,user,False,,male
+Atsunori,Atsunori Fujita,user,True,"Tokyo, Japan",male
+RabbitovskiZ,Charles Zhou,user,False,,male
+steffigro,Stefanie G,user,False,,female
+thschoen,Thomas Schoenemeyer,user,True,Munich,male
+charliech,chen rui,user,False,,male
+ssylvain-nvidia,Steve Sylvain,user,False,,male
+cassandray,Cassandra Young,user,False,,female
+wdaiai,Wenliang,user,True,Hong Kong,male
+jiaxuanx,Jiaxuan Xie,user,False,,unknown
+emilypotyraj,Emily Potyraj,user,False,,female
+wenkaichen,Wenkaic,user,False,,unknown
+spcutler,Scott Cutler,user,False,,male
+shanmugamr,shanmugam ramasamy,user,True,Santa clara,male
+pranjaldoshi,Pranjal Doshi,user,False,,male
+Manojkilaru,Manoj Kilaru,user,False,,male
+RocCakes,Peng Wang,user,False,,male
+yuanhuaiw,Mason,user,False,,male
+drewdrewliu,Andrew Liu,user,False,,male
+fguillier,francis guillier,user,False,,male
+epounds,Erik Pounds,user,False,,male
+whanau,Walter Hanau,user,False,,male
+Wongun,Choi,user,False,,unknown
+dz-xt,Maka D,user,False,,unknown
+nico-lebovitz,Nicolas Lebovitz,user,True,,male
+boxin-wbx,Boxin Wang,user,True,"Bay Area, California",male
+xrenaa,Xuanchi Ren,user,True,Toronto,unknown
+sergiopprz,Sergio,user,True,London,male
+limorm,martin,user,False,,unknown
+ajmenezes,Alan Menezes,user,False,,male
+gfreemannv,Greg Freeman,user,False,,male
+yifnv,Yi Fan,user,False,,male
+larkZ,Lark Zhang,user,False,,unknown
+gcbo,Bo Zhang,user,False,,male
+borisgin,Ginsburg,user,False,,female
+alanst,Alan Stigliani,user,False,,male
+cloudrainstar,Ken Liao,user,True,"Taichung, Taiwan",male
+yhlin,Yang-Hsien Lin,user,False,,unknown
+mitp,Mitesh Patel,user,True,,male
+minseokl,Minseok Lee,user,False,,male
+snlpatel001213,Sunil,user,False,,unknown
+taekyungheo,taekyungheo,user,True,New York City Metropolitan Area,male
+Victarry,Zhenhuan Liu,user,True,"Beijing, China",unknown
+samwu-nv,Sam Wu,user,False,,unknown
+ccccccao,chiawei ,user,False,,unknown
+chipro,Edmund Wang,user,False,,male
+nir-gal,Nir Gal,user,False,,unknown
+bpawar,Bhavesh Dineshchandra Pawar,user,False,,male
+charul15,charul verma,user,False,,female
+aschwarz-nv,Alexander Schwarz,user,False,,male
+jdyer,Jeremy,user,True,"Atlanta, GA",male
+NVVisionAI,Eyal Enav,user,False,,male
+achartier,Aurelien Chartier,user,True,Seattle,male
+cwharris,Christopher Harris,user,True,"Allen, TX",male
+shawnzzzzz,shawn zhang,user,False,,male
+huvu,Nvidia huvu,user,False,,unknown
+aflowers,Alec Flowers,user,False,,unknown
+apeganov,Anton Peganov,user,True,,male
+mind168,Min Du,user,False,,unknown
+nv-yuxi,Yu Xi,user,False,,unknown
+vipandya,Vishal Pandya,user,False,,male
+gleibovich,Gal,user,False,,unknown
+ameyasunilm,Ameya Sunil Mahabaleshwarkar,user,True,"Santa Clara, CA",male
+bmcbrayernv,Brian McBrayer,user,True,"Fuquay-Varina, NC",male
+esusantolim,Edy Lim,user,False,,unknown
+guanjiahui,Jiahui,user,False,,female
+samling,Sam B,user,False,,unknown
+vonodiripsa,Alex,user,False,,unknown
+VKudlay,Vadim Kudlay,user,True,"New Orleans, LA",male
+perliczka,Martyna Patelka,user,False,,female
+spratt,Seth Pratt,user,False,,male
+smichniak,Szymon Michniak,user,False,,male
+ekana,Eric Kana,user,False,,unknown
+ramanathan831,Ramanathan Arunachalam,user,False,,male
+jchli23,John,user,False,,unknown
+kishanm41,Kishan Mittal,user,False,,male
+xiachengshun,Chengshun Xia,user,False,,male
+chintankp,Chintan,user,False,,unknown
+mahsalotfollahi,Mahsa Lotfollahi,user,False,,female
+fuys06,Yaosheng Fu,user,False,,male
+danyolee,Daniel,user,True,,male
+leoye,Hanrong Ye,user,False,,unknown
+nv-bschifferer,Benedikt Schifferer,user,False,,male
+yuxianq,Yuxian Qiu,user,False,,unknown
+hhzhang,Hannah Zhang,user,False,,female
+nvhash,Hashim Almutairi,user,False,,male
+sganju,Siddha Ganju,user,False,,unknown
+shaponiuk,Szymon Haponiuk,user,False,,male
+rstocker,rstocker,user,False,,unknown
+milesmacklin,Miles Macklin,user,True,,male
+plieb,Jacob Liberman,user,False,,male
+Daniel1224,DanielShao,user,False,,male
+nvidia-oliver-holworthy,Oliver Holworthy,user,False,,male
+redherring59,Alia Eccles,user,False,,female
+krishung5,Kris Hung,user,False,,unknown
+sayyyyaka,sayaka ra,user,False,,female
+hainanxu,Hainan Xu,user,False,,unknown
+fzmu727,Fangzhou Mu,user,False,,unknown
+skar02nvda,Kar,user,False,,unknown
+HuiKKKK,Hui Kang,user,False,,unknown
+chiachihchen,chiachihchen,user,False,,unknown
+raynv,Rayne Zhou,user,False,,unknown
+krishnacpuvvada,Krishna C Puvvada,user,False,,male
+rhachiuma,Ryo Hachiuma,user,False,,male
+Fisher1234,Yu,user,False,,unknown
+jiyan-nv,jiyan Qiu,user,False,,unknown
+axelxx,Axel Xu,user,False,,unknown
+Elliotl98,Liu,user,False,,unknown
+roberman-nvidia,Rachel Oberman,user,False,,female
+Shaonag,G,user,False,,unknown
+pq43,Nikhil Mehta,user,True,San Francisco,male
+vg1024,Vincent,user,False,,male
+sam-nv,Samriddha Sinha,user,True,"Pune, India",male
+jasonnvidia,Jason Dudash,user,True,Northern Virginia,male
+akberr,Akber Raza,user,False,,male
+mjoux,Matthias Jouanneaux,user,False,,male
+aimeeh,hou,user,False,,unknown
+xiangw,Shawn Wang,user,False,,male
+skakolu,Surabhi Kakolu,user,False,,female
+dmbarry88,Dave Barry,user,False,,male
+xiali,Xiaodong Li,user,False,,unknown
+phendricks,Paul Hendricks,user,False,,male
+nimoelocz,nml,user,False,,unknown
+lengyue233,Lengyue,user,True,Santa Clara,female
+anacNV,Ana Caklovic,user,False,,female
+huckiyang,Chao-Han Huck Yang,user,True,Taipei and Sunnyvale,male
+goarushi27,Arushi Goel,user,False,,female
+KenHe,KenHe,user,False,,unknown
+nvpfec,Paul Callender,user,False,,male
+Wauplin,Lucain Pouget,user,True,,male
+pprabhakar,Prakash Prabhakar,user,False,,male
+AlexBuyuan,Cui,user,False,,unknown
+zijiac-nvidia,Zijia Chen,user,False,,unknown
+apanteleev,Alexey Panteleev,user,True,,male
+jeongsoop,Jeongsoo Park,user,False,,male
+rogerl19,Jer Wei Liu,user,False,,unknown
+xmchen,Xiaoming Chen,user,False,,male
+zeryx1911,James Sutton,user,True,,male
+cmnit,Carlo Nardone,user,False,,male
+siddharthtyagi,Siddharth Tyagi,user,True,,male
+ifogph,Assaf Hallak,user,False,,male
+nv-ayoung,Alexander Young,user,False,,unknown
+stoshniwal,Shubham Toshniwal,user,True,New York,male
+msieniawski,Mateusz Sieniawski,user,False,,male
+ethanhe,Ethan He,user,True,"Santa Clara, CA",male
+psim0n,Paul SIMOn,user,False,,male
+glos-nv,Grzegorz Los,user,True,,male
+tonylim,Tony Lim,user,True,"Seattle, WA",male
+sajadd,Sajad Darabi,user,False,,male
+tbanuelos,Tony Banuelos,user,False,,male
+msripalle,Meghana Sripalle,user,False,,female
+KonradNV,Konrad,user,False,,male
+yaoyu-33,Yu Yao,user,True,,unknown
+ayeshaas,Ayesha Asif,user,False,,female
+imoshkov,Ivan Moshkov,user,False,,male
+srangaraju,Sahana Rangaraju,user,False,,female
+ncomly-nvidia,Nick Comly,user,True,"San Francisco Bay Area, CA",male
+michael-okeeffe,Michael O'Keeffe,user,False,,male
+dongfengy,Dongfeng Yu,user,False,,male
+llamatothemoon,Goncharenko,user,False,,male
+BhavGud,Bhav Gudi,user,False,,unknown
+shunjiadnvidia,Shunjia Ding,user,False,,unknown
+majchrow,Dawid Majchrowski,user,False,,male
+zehuanw,Joey Wang,user,False,,unknown
+amkale,Amit Kale,user,False,,male
+yanghansyuan,Hans Yang,user,False,,male
+avalliappan,Alagappan Valliappan,user,False,,male
+jirwin,John Irwin,user,False,,unknown
+fbnv,FrenchBen,user,False,,unknown
+jrmorgan,JR,user,True,"Gainesville, FL",male
+zihanliu,Zihan Liu,user,True,Hong Kong,unknown
+steve-nvidia,Steve H,user,False,,unknown
+doyopk,Doyub Kim,user,False,,male
+nchentanez,Nuttapong,user,False,,male
+ushnishde,Ushnish De,user,True,,unknown
+ritaneves217,Rita Fernandes Neves,user,False,,female
+genie0808,Nitika Singhvi,user,False,,female
+klaudianv,Klaudia,user,False,,female
+MagicWyzh,MagicWyzh,user,True,,unknown
+rambegaokar-nv,Rajiv Ambegaokar,user,False,,male
+cusnkrhead,carolyn uy,user,False,,female
+apilzer,Andrea Pilzer,user,False,,unknown
+tongliu1998,tongliu,user,False,,male
+sarane,Saurabh Chandrakant Rane,user,False,,male
+ltchapmi,Lyne Tchapmi,user,False,,unknown
+rlatigo,Rey Latigo,user,True,,unknown
+ananyamalik09,Ananya Malik,user,False,,female
+nvodrulea,Octavian Drulea,user,False,,male
+aadesoba,Adeola Adesoba,user,True,"Little Rock, USA",female
+yangyangg,Young Gao,user,False,,unknown
+jechu-nv,Jeffrey Chu,user,False,,male
+gshennvm,Gerald Shen,user,True,,male
+imedennikov,Ivan Medennikov,user,False,,male
+eopXD,Yueh Ting Chen,user,False,,unknown
+sniverty,Sriharsha Niverty,user,True,,unknown
+fptasse,Flora Tasse,user,False,,female
+aadityay,Yadav,user,False,,unknown
+dnandakumar-nv,Dhruv Nandakumar,user,False,,male
+dubauski,Barys Dubauski,user,False,,male
+woshiweidu,Wei Du,user,False,,unknown
+ansjin,Anshul Jindal,user,True,,male
+msewak,Mohit Sewak,user,True,,male
+tanmayv25,Tanmay Verma,user,True,Santa Clara,male
+yueluny,Yuelun Yang,user,True,,male
+tc-nv,Tony Cruz,user,False,,male
+NVshreyas,Shreyas Misra,user,True,,male
+dbora,Deepak Bora,user,False,,male
+AparnaaRamani,Aparnaa Ramani,user,False,,female
+wphicks,William Hicks,user,True,"Gainesville, FL",male
+wxin94,Xin Wang,user,False,,unknown
+spiezasnv,seth piezas,user,True,,unknown
+sunil1511,Sunil Dattatraya Upare,user,True,"Santa Clara, CA",male
+shoeybi,Mohammad Shoeybi,user,False,,male
+ryantwolf,Ryan Wolf,user,True,"Santa Clara, CA",male
+ayushdg95,Ayush Dattagupta,user,False,,male
+mbalint,Michael Balint,user,True,,male
+msekoyan,Monica Sekoyan,user,False,,female
+SKostandian,Sofia Kostandian,user,True,,female
+jig2,Jig,user,False,,unknown
+rwaleffe,Roger Waleffe,user,False,,male
+Chris-Alexiuk,Chris Alexiuk,user,True,"Toronto, Ontario, Canada",male
+mbien,Michał Bień,user,True,Poland,male
+yentinglin,Yen-Ting Lin,user,True,,unknown
+tomer-nv,Tomer Ronen,user,False,,male
+wyli2024,wenqi,user,True,"London, UK",unknown
+nfvs,Nuno Santos,user,False,,male
+nvjdebache,Julien Debache,user,True,Zurich,male
+mwieczorek69,mwieczorek,user,False,,unknown
+nreamaroon,Nick Reamaroon,user,False,,unknown
+shantanuacharya,Shantanu Acharya,user,True,"New York, United States",male
+varunvenkate,v,user,False,,unknown
+hrossnvidia,Hayley Ross,user,False,,female
+shili-0212,Shiyu Li,user,False,,unknown
+Elijah77,Elijah B,user,False,,unknown
+katielink,Katie Link,user,True,"New York, NY",female
+nvkasikritc,Kasikrit Chantharuang,user,False,,male
+roganti,Rohit Ganti,user,False,,male
+vishalanv,Vishal,user,False,,male
+VibhuJawa,Vibhu Jawa,user,False,,unknown
+dmehra,Disha Mehra,user,False,,female
+ssesol,Sood,user,False,,unknown
+shengliangx,Shengliang Xu,user,False,,male
+jinzhou97-nvidia,Jin Zhou,user,False,,male
+Op3n4M3,Jeffrey Martin,user,False,,male
+shuoyangd-nvda,S D,user,False,,unknown
+FanjiaNV,Fanjia Yan,user,False,,unknown
+ssydasheng,Shengyang,user,True,Toronto,unknown
+AmritaNV,Amrita Bhattacharjee,user,True,"Tempe, AZ, USA",female
+cdgamarose,Chantal D Gama Rose,user,True,,female
+wping,Wei Ping,user,False,,unknown
+cwing-nv,Chris,user,False,,unknown
+BeauPerschall,Beau Perschall,user,False,,male
+miguelusque,Miguel,user,False,,male
+MichaelZhangBH,Michael Zhang,user,True,,male
+xiangruiy,xiangriuy,user,False,,unknown
+mkliegl-nv,Markus Kliegl,user,False,,male
+aastalll,Aasta,user,False,,unknown
+jqi,Jiaxing Qi,user,False,,unknown
+cobusb,Cobus,user,False,,male
+amccaskey,Alex McCaskey,user,True,"Knoxville, TN",male
+vanshils,vanshil shah,user,False,,male
+yingcanw,Yingcan Wei,user,False,,unknown
+WilliaJin,Sutcliffe,user,False,,male
+helplesscoder,Ayush Agarwal,user,False,,male
+yimoj,Yimo Jiang,user,False,,unknown
+dhigurashi,Daiki Higurashi,user,True,Japan,male
+cmerk-nvidia,Christian Merkwirth,user,False,,male
+yoslber,Jacob Munkberg,user,False,,male
+lapeyre,Corentin Lapeyre,user,False,,male
+chmiller,Chris Miller,user,False,,male
+nv-dongm,Dong Meng,user,True,,unknown
+mmarcotte,Michael Anthony Marcotte,user,False,,male
+skrishnamurthy,Shwetha Krishnamurthy,user,False,,female
+amorari,Alessandro Morari,user,False,,male
+flying-squirrel,Brooke Storm,user,True,United States,female
+frida-a,Yuexin Hou,user,True,,unknown
+mikeyrcamp,Mike Camp,user,True,"Raleigh, NC",male
+pallab1234,Pallab Bhattacharya,user,False,,male
+rahulsha,Rahul Sharma,user,False,,male
+alam-shorna,Shorna Alam,user,False,,female
+daccache,Anna Daccache,user,False,,female
+PhoenixHe,Phoenix He,user,False,,unknown
+nyuen-nv,Nick Yuen,user,False,,male
+tzahish,Shemesh,user,False,,unknown
+itamar-ros-rauch,Itamar Rosenfeld Rauch,user,True,,male
+NKIWI,Naser Issa,user,False,,male
+hfarooq-nv,HF,user,False,,unknown
+RLakshmi24,Lakshmi Ramesh,user,False,,female
+atindraj,Atindra Jha,user,False,,male
+sanketmarunv,Sanket Maru,user,False,,male
+jschmalfuss,Jenny Schmalfuss,user,False,,female
+btong04,Bao Tong,user,False,,male
+santinor,Santino Ramos,user,False,,male
+ashwania,Ashwani Agarwal,user,False,,male
+sangqidi,sangqidi,user,False,,unknown
+matthijsvk,matthijs van keirsbilck,user,False,,male
+roik-nvidia,Roi Koren,user,False,,male
+kchakkarwar,Kartik Chakkarwar,user,False,,male
+ssuchyta,Scott Suchyta,user,False,,male
+juschneider,Julianna Schneider,user,False,,female
+akhilg-nv,Akhil Goel,user,False,,male
+fangyul,Fangyu Li,user,False,,unknown
+obliviate3333333,john wick,user,False,,male
+chenmaol,Chenmao Li,user,False,,unknown
+lilgrigs,Lilit Grigoryan,user,False,,female
+yziser,Yftah Ziser,user,True,,male
+julienmancuso,julien mancuso,user,True,,male
+BestJuly7,Li Tao,user,False,,male
+guydada,Guy Dahan,user,True,Tel-Aviv,male
+ShiriHoc,Shiri Hochhauser,user,False,,female
+nwertheizer,Nitzan Wertheizer,user,False,,unknown
+Devil11Abhijeet,Pradhan Abhijeet,user,False,,male
+charuchaubal,Charu Chaubal,user,False,,female
+beiwang,Bei Wang,user,False,,unknown
+kwanz,ZHENGYI KWAN,user,False,,unknown
+yushiangw,YSNV,user,False,,unknown
+sgode,Somesh Gode,user,False,,male
+mgrodzicki,Mieszko Grodzicki,user,False,,male
+Foobarco,John barco,user,False,,unknown
+Jmorizono,James Morizono,user,False,,male
+nvzhouhk,hongkuan zhou,user,False,,male
+zaristei-nvidia,Zachary Aristei,user,False,,male
+aniculescu,Alex Niculescu,user,False,,male
+salberdi-n,Sebastian Alberdi,user,False,,male
+lanluo-nvidia,Lan Luo,user,False,,female
+allisonlim,Allison Lim,user,False,,female
+dfisk,Dave Fisk,user,False,,male
+sophiazalewski1,Sophia Zalewski,user,False,,female
+MyNameIsAnn,Ann,user,False,,female
+SachidanandAlle,Sachidanand Alle,user,True,,unknown
+rakpaul,Rakesh P,user,False,,male
+shuang2024,shuangqiu,user,False,,unknown
+ZiViLa,Ziv Ilan,user,False,,unknown
+l0ngtao1688,l0ngtao1688,user,False,,unknown
+lnigam,Loveneet Nigam,user,False,,male
+RanZilberstein-Nvidia,Ran Zilberstein,user,False,,male
+itlevy,Itay Levy,user,False,,male
+gilgameshd,Wenhao Ding,user,True,"Santa Clara, US",male
+ArturKasymovNV,Artur Kasymov,user,False,,male
+cneerukonda,Chandana Neerukonda,user,False,,female
+csg1,canberk suat gurel,user,False,,male
+vlivinsk,Vsevolod Livinskii,user,False,,male
+nadinechang,Nadine Chang,user,False,,female
+mdavila,Marina Davila,user,False,,female
+Chenhui1016,Chenhui Deng,user,True,,unknown
+Najeebnv,Najeeb Nabwani,user,False,,unknown
+Nvidia-NetanelHaber,Netanel Haber,user,False,,male
+soniakong,sonia kong,user,False,,female
+jf202407,Jiefu Deng,user,False,,male
+gmehta,gunjan mehta,user,False,,female
+tijyojwad,Joyjit Daw,user,True,New York City,male
+sai-karyekar,Sai Paresh Karyekar,user,False,,male
+royrajarshi,Rajarshi Roy,user,False,,male
+cjacobs7,Christian Jacobsen,user,False,,male
+kj1012,M,user,False,,unknown
+SiSiddhanthRaja,Si Siddhanth Raja,user,False,,male
+HirenNvidia,Namera,user,True,Pune,female
+OzymandiasLiu,Yiming Liu,user,True,,unknown
+pikaminski,Piotr Kaminski,user,False,,male
+nuraismail,Nura Ismail,user,False,,female
+weiqingw4ng,Weiqing Wang,user,True,,unknown
+BorisFomitchev,Boris Fo,user,False,,unknown
+gmoreira-nv,Gabriel de Souza Pereira Moreira,user,True,"São José dos Campos, SP, Brazil",male
+eoldridge,Even Oldridge,user,True,,unknown
+tfogal,t,user,False,,unknown
+chrcheng,chris cheng,user,False,,male
+einsteiner1983,Alex Steiner,user,True,,unknown
+bullery,Brooke Ullery,user,False,,female
+rmccarthy,Robert McCarthy,user,False,,male
+ydrame,Yakhoub Drame,user,True,,male
+apant,Anusha Pant,user,False,,female
+nv-zban,Zhiyong Ban,user,False,,male
+zachidan,Idan Zach,user,True,,male
+talor-abr,Talor Abramovich,user,False,,male
+DanialMT,Danial Mohseni Taheri,user,False,,male
+MehrnazAm,Mehrnaz Amjadi,user,False,,female
+jarvism-nv,Jarvis McGee,user,False,,male
+ashors,Anna Shors,user,False,,female
+yanwang88,Yan Wang,user,False,,unknown
+aaadasdasda,a,user,False,,unknown
+rtx9090,zhiyongl,user,False,,male
+rhastie,Richard Hastie,user,False,,male
+ftartaglione,Francesca,user,False,,female
+charliehNV,Charlie Huang,user,True,,unknown
+nbommi,Nitin Sai Bommi,user,False,,male
+vsarge,Valerie Sarge,user,True,,female
+crivard,ColtonRivard,user,False,,male
+FK12344,Kaster,user,False,,unknown
+kbehnam,kourosh behnam,user,False,,male
+prkulkarni,Prasad,user,False,,unknown
+subs93,subbulakshmi,user,False,,female
+ristoh,Risto Haukioja,user,False,,male
+edemiraydin,Eda Johnson,user,True,"Austin, TX",female
+L0SG,Sang-gil Lee,user,True,United States,male
+poush,Parnian Soroush,user,False,,unknown
+scnvidia,Siddhant Chadha,user,False,,male
+dafrimi,Daniel Afrimi,user,False,,male
+xp1992slz,Peng Xu,user,False,,male
+bakho,Olivier Vernay-Kim,user,False,,unknown
+liorc100-work,Lior Cohen,user,False,,male
+mayanktahil-NVDA,Mayank,user,False,,male
+MalayN,Malay Nagda,user,False,,unknown
+AnjulieAgrusa,Anjulie Agrusa,user,False,,female
+govilh,Himanshu Govil,user,False,,male
+afilby,Alex Filby,user,False,,male
+ibhosale96,Indrajit Maloji Bhosale,user,False,,male
+nv-zhengd,Zheng Duan,user,False,,male
+rmeghwalNV,Rameshwar Prasad Meghwal,user,False,,male
+CBUNCE,Clay Bunce,user,False,,male
+nvjhui,Jacky,user,False,,unknown
+michxu,Michelle Xu,user,False,,female
+yinggeh,Yingge He,user,False,,unknown
+oferby,Ofer Ben-Yacov,user,False,,male
+ZhifengKong,Zhifeng Kong,user,False,,male
+vmarchnv,Verdi March,user,False,,unknown
+yyxue,yyx,user,False,,unknown
+ishahaf,Ido Shahaf,user,False,,male
+shrimai19,Shrimai Prabhumoye,user,False,,female
+blisc,Jason Li,user,True,,male
+mphilipp622,Mark,user,True,"Riverside, CA",male
+TommyNV,Tom Kea,user,False,,unknown
+mpatwary,Mostofa Patwary,user,False,,male
+minqis,Minqi Sun,user,False,,unknown
+ischen-nvidia,Itamar Schen,user,False,,male
+galv,Daniel Galvez,user,False,,male
+junhaos-nv,Junhao Shen,user,False,,male
+rohrao,Rohan Rao,user,True,"Mountain View, California",male
+pgoode,Preston Goode,user,False,,male
+alexlatz,Alex Latz,user,False,,unknown
+atefehsz,Atefeh Sohrabizadeh,user,False,,female
+38XN-O33T,Nvidia,user,False,,unknown
+awarno,Anna Warno,user,False,,female
+rafonsorodri,Rafael,user,False,,male
+raymlee,Raymond Lee,user,False,,unknown
+srvm,Saurav Muralidharan,user,False,,male
+torsli,David Thorsley,user,False,,male
+ksh-19,Kshitij Shukla,user,False,,male
+eshachar,Eran Shachar,user,False,,unknown
+saharon,shay aharon,user,False,,male
+chenjywz,jiayaoc,user,False,,unknown
+agabow,Aaron,user,False,,male
+Abhilash,Abhilash Somasamudramath,user,False,,male
+djns1,Daniel,user,False,,male
+zmoshe,Zach Moshe,user,False,,male
+IdoGalilNvidia,Ido Galil,user,False,,male
+mikeiovine01,Mike Iovine,user,False,,male
+bung2,Ben Ung,user,False,,unknown
+Tianyang2,Liu,user,False,,unknown
+maxwellsterner,Maxwell Sterner,user,False,,male
+asoller,Amy Soller,user,False,,female
+sharathtsnv,Sharath Turuvekere Sreenivas,user,True,San Jose,male
+tzapetis,Tim Zapetis,user,False,,male
+tejaswinp,Teja,user,False,,unknown
+theethanken,Ethan Ken,user,False,,male
+oargov-nv,Omer Ullman Argov,user,True,,male
+abercovich,Akhiad Bercovich,user,False,,male
+chaserileyroberts,Chase Roberts,user,True,United States,male
+schacha,Sean Cha,user,False,,unknown
+xiayux,Xiayu Xu,user,False,,unknown
+MikeLNV,Mike Lin,user,False,,male
+lucasliebenwein,Lucas Liebenwein,user,True,"New York, NY",male
+rgc183,roshan c,user,False,,unknown
+zhiyucheng,Zhiyu Cheng,user,False,,unknown
+djmoffitt,Daniel Moffitt,user,True,"RTP, NC",male
+elitang,Elizabeth Tang,user,False,,female
+gzynda,Greg Zynda,user,False,,male
+sanmitrab,Sanmitra Banerjee,user,False,,unknown
+jilv,Jing Lu,user,True,"Shanghai, China",unknown
+seonwookp,Wookie Park,user,False,,unknown
+itskevinwang,Kevin Wang,user,True,"Santa Clara, CA",male
+Jiafei1234,Duan,user,True,Seattle,unknown
+nachiketb,Nachiket Bhatt,user,False,,male
+aishnair,Aish Nair,user,False,,unknown
+EgoCogito,N O,user,False,,unknown
+binghanc,Binghan Chen,user,False,,unknown
+Nluiken,Nick Luiken,user,False,,male
+racerx2oo3,Sean,user,False,,male
+jieldec,Jes L,user,False,,unknown
+erin47,Qin Han,user,False,,male
+jplnv,j.p. lewis,user,False,,unknown
+dlykov,Dan Lykov,user,False,,male
+i9seanwang,Sean Wang,user,True,,male
+opuny,Omri Puny,user,False,,unknown
+stremeor,Steffen,user,True,Germany,male
+nvdpc,Dan Campbell,user,False,,male
+janakivamaraju,Vamaraju,user,True,,unknown
+m-dubie,Michael Dubie,user,False,,male
+mandersch-nv,Michael Andersch,user,False,,male
+mderuyternv,Michael De Ruyter,user,False,,male
+cpaikara,Chaitanya Paikara,user,False,,unknown
+jhuo,Sam Huo,user,False,,unknown
+Rqchely2,Rachel,user,False,,female
+PaulHi,Paul Hientz,user,False,,male
+fbastien,Frederic Bastien,user,True,Montréal,male
+pgibbons,Paul Gibbons,user,False,,male
+wolekuduo,Xinghua Xu,user,False,,unknown
+zihaokongnv,zihao kong,user,False,,male
+winsopc,zhen wang,user,False,,unknown
+joyshennv,Joy Shen,user,True,,female
+rima-shahbazyan,Rima,user,False,,female
+jc093j3k,Joey,user,False,,unknown
+shaofubaijie,pengzhi zhu,user,False,,unknown
+zhanruis,Sun,user,False,,unknown
+jordanliu,jordan liu,user,False,,male
+tkarras,Tero Karras,user,False,,male
+mjpradeep,Pradeep,user,False,,male
+otropp,Oren Tropp,user,False,,male
+xiaoyong1230,Liu,user,False,,unknown
+OsvaldNV,Osvald Nitski,user,False,,male
+Aecie,Moqing Li,user,False,,unknown
+YohaiE,Yohai Eival,user,False,,unknown
+sarahyurick,Sarah Yurick,user,True,"Santa Clara, CA",female
+wayan-work,Yan Wang,user,False,,unknown
+vtammana,venkatesh tammana,user,False,,male
+Swasdutta1,Dutta,user,False,,unknown
+jkosek,Jakub Kosek,user,False,,male
+jihyeonl,Jihyeon Lee,user,False,,female
+CEilers,Christine Eilers,user,False,,female
+nv-kgreshake,Kai Greshake,user,False,,unknown
+adevrani,Aryan Devrani,user,False,,unknown
+areskay3,Robert Kirby,user,False,,male
+jaedeokk,Jaedeok Kim,user,False,,unknown
+AnishDelft0504,Anish Mukherjee,user,False,,male
+omiita-nv,Masaomi Tokunaga,user,False,,male
+weihan-nv,Weihan Wu,user,False,,male
+spethe,Sheel Pethe,user,False,,unknown
+jlanclume,Jimmy Lanclume,user,False,,male
+psn014,Seonmyeong Bak,user,True,"Santa Clara, CA",female
+zozhangg,Zoey Zhang,user,False,,female
+sugunav14,Suguna Varshini Velury,user,False,,female
+emnvidia,E M,user,False,,unknown
+sankeerth95,Sankeerth Durvasula,user,False,,male
+shizhediao2,Shizhe,user,False,,unknown
+chaomingf,chaomingf,user,False,,male
+nv-asiberry,Angus Siberry,user,False,,male
+Abfter,A,user,False,,unknown
+dhrum22,Dhrumil Shah,user,False,,male
+pratshah,Pratiksha,user,False,,female
+vasawant,Vaibhav Sawant,user,False,,male
+bcnguyen,Brian NGUYEN,user,False,,male
+rowoflo,Rowland O'Flaherty,user,False,,male
+nvrohanv,Rohan Varma,user,False,,male
+mmanos,Marcus ,user,False,,male
+kawen129,Kai Wen,user,False,,unknown
+zymu,ZyMu,user,False,,unknown
+nbenslimane,Nourchene Benslimane,user,False,,female
+lghita,Lavinia Ghita,user,True,"London, UK",female
+maharajal,Rajal Maharaj,user,False,,unknown
+Fridge-Door-Ajar,Anthony Elizawright,user,False,,male
+albhuang,Albert Huang,user,False,,male
+vera0816,Liu,user,False,,unknown
+width12,wei ji chen,user,False,,unknown
+fans-nv-7722,Fan Shi,user,False,,unknown
+meenakshi2710,Meenakshi Sharma,user,False,,female
+cmhungsteve,Min-Hung Chen,user,True,"Taipei City, Taiwan",unknown
+yuhengx,Yuheng XIE,user,False,,unknown
+Junyix,Junyi Xu,user,False,,unknown
+maximilianofir,Maximilian Ofir,user,True,Munich,male
+MaggieXM,Zhang,user,False,,male
+MenloMaggie,Margaret Albrecht,user,False,,female
+tfenn,Thomas Fenn,user,False,,male
+fskalka,Filip Skalka,user,False,,male
+nvkartik,Kartik S,user,False,,unknown
+bbozkaya,Burcin Bozkaya,user,False,,female
+ekmb,Evelina Bakhturina,user,True,"Santa Clara, CA",female
+mmarmstrong,Mansi Manohara,user,False,,female
+jian-nvidia,jianli,user,False,,male
+andrewwa-nvidia,Andrew Wang,user,False,,male
+ytewel,Yoad Tewel,user,False,,male
+yatzmon,Yuval Atzmon,user,False,,male
+galchechik,Gal Chechik,user,False,,unknown
+GuilhemNV,Bau,user,False,,unknown
+yuzhongw-nvidia,Yuzhong Wang,user,False,,male
+amevec,Alexander Mevec,user,False,,male
+statiraju,suman tatiraju,user,False,,unknown
+izikg,Izik Golan,user,False,,male
+adavanian,Davanian,user,False,,unknown
+xhan-shannon,Shannon Han,user,False,,female
+yianznv,Yian Zhang,user,False,,unknown
+jonghyunkim,Jonghyun Kim,user,False,,male
+jraimannvidia,Jonathan Raiman,user,False,,male
+saktyagi,Sakshi Tyagi,user,False,,female
+songole,Sai Ongole,user,False,,unknown
+Risrivastava,Ritika Srivastava,user,False,,female
+mehrzads,Mehrzad Samadi,user,False,,male
+sharma974,SS,user,False,,unknown
+sliuau,LIU Shih-yang,user,True,HK and TW,male
+lduhem-nv,Laurent Duhem,user,False,,male
+AB-NV,Amelia Barton,user,False,,female
+chhall,Christopher Hall,user,False,,male
+dblanaruNVDA,Dan Blanaru,user,False,,male
+shivamlakhotia,Shivam Lakhotia,user,False,,male
+Charlll,Charll,user,False,,unknown
+almontef,Franklin Almonte,user,False,,male
+jibinv,Jibin Rajan Varghese,user,False,,male
+sdarbha,sivaram darbha,user,True,,male
+cmoluluo,Cem ,user,False,,unknown
+kpnv,Krishnan Prashanth,user,False,,male
+anita-hu,Anita Hu,user,False,,female
+dbataille,Damien Bataille,user,False,,male
+bowang007,Bo Wang,user,False,,male
+jacliu9233,Jack Liu,user,True,,male
+yyalice,chen yiyi,user,False,,female
+DFatadeNVIDIA,Fatade,user,False,,unknown
+ypolius,Yannick Polius,user,False,,male
+JatinNvidia,Jatin Nainani,user,False,,male
+ameykul,Amey Kulkarni,user,False,,male
+achoudhry,Abdullah Choudhry,user,False,,male
+SnowMasaya,Masaya Ogushi,user,False,,male
+matthieul,Matthieu Le,user,False,,male
+nbagrov,Natan Bagrov,user,False,,male
+suhara,Yoshi Suhara,user,True,"Santa Clara, CA",unknown
+vijsingh,Vijay Singh,user,False,,male
+cmackay,Charles MacKay,user,False,,male
+FeiLLL,Fei Liang,user,False,,unknown
+gdivya-nvidia,gdivya,user,False,,unknown
+sschaber381,Simon Schaber,user,True,,male
+steramae,Sean T,user,False,,male
+dlasalle,dominique lasalle,user,False,,unknown
+jz-nv,Jenny Zhang,user,False,,female
+zzeng,Zhen Zeng,user,False,,unknown
+sammj,Samuel Mendoza-Jonas,user,True,Australia,male
+nv-dn,Nola,user,False,,unknown
+hpcnp,Christopher  Porter,user,False,,male
+JiyangWang,Jiyang Wang,user,False,,male
+seanielee,Seung Beom Lee,user,False,,male
+Zi-Ting,Chou,user,False,,unknown
+supermmx,nvmx,user,False,,unknown
+ritugupta24,Ritu Gupta,user,False,,female
+jmahou,jeffrey mahou,user,False,,male
+mmikulski,Maciej Mikulski,user,False,,male
+swild96,Wild,user,False,,unknown
+pmaldikar,Pranita Maldikar,user,False,,female
+hfrn,Robert Overman,user,False,,male
+tcline,Travis Cline,user,False,,male
+haileys,Hailey Shi,user,False,,female
+zhaijian,Jian Zhai,user,False,,unknown
+tlasser,Tobias Lasser,user,False,,male
+karansapra,Karan,user,False,,male
+akochetov,Andrei Kochetov,user,False,,male
+relyaniv,Ran El-Yaniv,user,False,,unknown
+ygeifman,Yonatan Geifman,user,False,,male
+UdiKarpas,Udi Karpas,user,False,,unknown
+sudhakars,Sudhakar Singh,user,False,,male
+ptredak,Przemyslaw Tredak,user,False,,male
+nktr,kntr,user,False,,unknown
+dwachowicz,Dominik Wachowicz,user,False,,male
+ugionedis,Uriel Gionedis,user,False,,unknown
+lkadoch,lkadoch,user,False,,unknown
+nvwilliamz,William Zhang,user,False,,male
+adshen,Ada Shen,user,False,,female
+munzi,Munjal Patel,user,False,,male
+ashaver,Adam Shaver,user,False,,male
+andjoseph,Andrew Joseph,user,False,,male
+JanekL,Jan Lasek,user,False,,unknown
+ShaiRozenberg,Shai Rozenberg,user,True,,unknown
+artbataev,Vladimir Bataev,user,True,"Armenia, Yerevan",male
+kevinch-nv,Kevin Chen,user,False,,male
+akhetan,ash kh,user,False,,unknown
+yinc-nvidia,Yin Cui,user,False,,unknown
+OfBaratz,Ofer Baratz,user,False,,male
+JunGaoNVIDIA,Gao,user,False,,unknown
+Ritzdzire,Ritesh kumar,user,False,,male
+shivamraj,Shivam Raj,user,False,,male
+NV101,Morteza,user,False,,male
+Pb314314nv,Bo Pang,user,False,,unknown
+nvvasusingh,Vasu Singh,user,False,,unknown
+nv-alicata,Aaron Licata,user,False,,male
+vispatil,Vishal Patil,user,False,,male
+jinishs,Jinish Shah,user,False,,male
+v-shobhit,Shobhit Verma,user,True,,male
+gbonik-nvidia,Greg Bonik,user,False,,male
+hadifute,Hadi Hadi,user,False,,unknown
+dzagieboylo,Drew Zagieboylo,user,False,,male
+slayton58,Simon Layton,user,False,,male
+elungulescu-nvidia,Lungulescu,user,False,,unknown
+rbadlani,Rohan Badlani,user,True,"Stanford, CA",male
+nv-cory,Cory banks,user,False,,male
+ychenNLP,Yang Chen,user,True,,male
+yunhsuanc,Kate Cheng,user,True,,female
+grzegorzchlebus,Grzegorz Chlebus,user,False,,male
+ddeteringnv,Danielle Detering,user,False,,female
+sfahad,Shah Fahad,user,False,,male
+akanh,Akan Huang,user,False,,unknown
+florahuangnv,Flora Huang,user,False,,female
+donkilu,Eric Lu,user,False,,male
+donaldsnvidia,Donald Shannon,user,False,,male
+NickVenanzi,Nick Venanzi,user,True,UK,male
+mingxinz,Mingxin Zheng,user,True,Shanghai,unknown
+MixologyTeam,Team,user,False,,unknown
+raman-18,Ramandeep Kaur,user,False,,female
+jkisel,Jakub Kisel,user,False,,male
+van16,Vanessa Courville,user,False,,female
+LinFengguang,Lin,user,False,,unknown
+svc-jet,svc-jet,user,False,,unknown
+aporwal,Ayush Porwal,user,False,,male
+Suibin-NV,Suibin Sun,user,False,,unknown
+ankit096,Ankit Gupta,user,False,,male
+ldunvidia,Zijian Du,user,False,,male
+fweise,Fabian Weise,user,False,,male
+R2024US,R A,user,False,,unknown
+YongganFu,Yonggan Fu,user,False,,male
+tayefs,Tayef Shah,user,False,,unknown
+georgea-nvidia,George Armstrong,user,False,,male
+shanghaijiang,joejiang,user,False,,male
+mvn09,x,user,False,,"```pythonimport gender_guesser.detector as genderdef predict_gender(name, location=none):    """"""predicts the gender of a given name.    args:        name: the name to predict the gender of.        location: optional location information (currently unused).    returns:        ""male"", ""female"", or ""unknown"".    """"""    d = gender.detector()    predicted_gender = d.get_gender(name.split()[0])  # use only the first name    if predicted_gender in [""male"", ""mostly_male""]:        return ""male""    elif predicted_gender in [""female"", ""mostly_female""]:        return ""female""    else:        return ""unknown""# examples:print(predict_gender(""christopher pirillo""))  # output: maleprint(predict_gender(""vera axelrod""))  # output: femaleprint(predict_gender(""vish ganapathy""))  # output: unknownprint(predict_gender(""leslie"")) # output: unknown (demonstrates improvement over earlier version)print(predict_gender(""x"", ""nan"")) # output: unknown```"
+jonasy,Jonas Yang,user,False,,male
+agaliautdino,Alina Galiautdinova,user,False,,female
+Lois123,H,user,False,,unknown
+nathanhr,Nathan,user,False,,male
+yuanjings-nvda,yj shi,user,False,,unknown
+SimonX,Xin Dong,user,False,,unknown
+qianxie111,Qian Xie,user,False,,unknown
+Sabchandler,sabareesh ganapathy,user,False,,male
+yweng,Yue Weng,user,False,,unknown
+yingliwang,lili,user,False,,female
+xuwenc,Xuwen Chen,user,False,,unknown
+pseudopotential,Suyog Gupta,user,False,,male
+adi1-NV,Adi J,user,False,,unknown
+brb-nv,Balarama Raju Buddharaju,user,False,,male
+nvahmadi,Seyed-Ahmad Ahmadi,user,True,"Munich, Germany",male
+rmukundan,Raghav Hrishikeshan Mukundan,user,False,,male
+msablotny,Martin Sablotny,user,False,,male
+zhilinw,Zhilin Wang,user,False,,male
+trevor-m,Trevor Morris,user,True,"Irvine, Californa",male
+Rayen666,RayenTian,user,False,,unknown
+nmenon717,NIKHIL MENON,user,False,,male
+Geethav,Geethapriya Venkataramani,user,False,,female
+ashbhandare,Aishwarya Bhandare,user,False,,female
+aendk,Andreas Kieslinger,user,False,,male
+ravirajoshi,Raviraj Joshi,user,True,,male
+odionne,Olivier Dionne,user,False,,male
+olegovcharenko,Oleg Ovcharenko,user,False,,male
+keshavsanthanam,Keshav Santhanam,user,False,,male
+siirene,Siranush Tumanyan,user,False,,female
+sydneyaltobell,Sydney Altobell,user,True,,female
+saurabha-126,Saurabh Aggarwal,user,False,,male
+aishwaryac11,Aishwarya Chhabra,user,False,,female
+ayajafarii,Aya Aljafari,user,True,Canada,female
+daniechen,Daniel Chen,user,False,,male
+Pigdoguk,Napier,user,False,,unknown
+nv-biswa,biswa panda,user,False,,unknown
+meena-at-work,Meenakshi V,user,False,,female
+nxu6,Ning Xu,user,False,,unknown
+mp-nv,Michal Piszczek,user,False,,male
+samlin1,Sam Lin,user,False,,unknown
+anshuman0107,Kumar Anshuman,user,False,,male
+Timoaa,Timo Aila,user,False,,male
+rylempka,Ryan Lempka,user,False,,male
+joosungy,Joosung Yoon,user,False,,male
+yashashvis,Yashashvi Singh,user,True,,unknown
+zhuoyaog,zhuoyaog,user,False,,unknown
+edobrowolska,Ewa Dobrowolska,user,False,,female
+Lball,Luciano Ballerano,user,False,,male
+asulecki,Andrzej Sulecki,user,False,,male
+mguzek,Michal G,user,False,,unknown
+NvNickE,Nick Edelman,user,False,,male
+lingjiew,LingjieW,user,False,,unknown
+philipp-fischer,Philipp Fischer,user,False,,male
+mabdulwahhab,mohammed abdulwahhab,user,False,,male
+nvpete,Peter Jun Sarabia,user,False,,male
+johnliudk,Dikai Liu,user,False,,unknown
+jojennin,Joseph Jennings,user,True,"Santa Clara, CA",male
+nv-jsaito,Jun Saito,user,False,,unknown
+ooolabiyi,Oluwatobi Olabiyi,user,False,,male
+rkrishnannv,R Krishnan,user,False,,male
+shsolanki,Shikhar Solanki,user,False,,male
+aihpos,Sophia H,user,False,,female
+secina,Yvonne Ding,user,True,,female
+hannamao,Hanzi Mao,user,False,,unknown
+hengwang00,Heng Wang,user,False,,male
+zekunhao,Zekun Hao,user,False,,unknown
+fitsumreda,Fitsum Reda,user,True,"Santa Clara, CA",male
+Haoxiang-Wang,Haoxiang Wang,user,True,United States,male
+alvinliu0,Xian Liu,user,True,"Santa Clara, CA",unknown
+fferroni,Francesco Ferroni,user,True,,male
+sbywqlq,sbywqlq,user,True,"Santa Clara, California, USA",unknown
+cnut1648,cnut1648,user,True,"Cambridge, MA",unknown
+richardaecn,Yin Cui,user,False,,female
+jwgu,Jinwei Gu,user,True,,male
+prithv1,Prithvijit Chattopadhyay,user,True,"Atlanta, Georgia",male
+badri2000,Badri Nerella,user,False,,unknown
+tsungyi,Tsung-Yi Lin,user,False,,male
+anaumann,Alex Naumann,user,False,,unknown
+bbiber,Barak Biber,user,False,,unknown
+tweeter0830,not my name,user,False,,unknown
+tingchunw,Ting-Chun Wang,user,False,,unknown
+snah,Seungjun Nah,user,True,"Santa Clara, CA",male
+jjf233,Jiaojiao Fan,user,False,,female
+mafrazier,Matt Frazier,user,False,,male
+mwawrzos,Marek Wawrzos,user,False,,male
+mkirchhart,Dr. Matthias Kirchhart,user,False,,male
+ai-hg-face-453,Juan Delgado,user,False,,unknown
+zeeshanpatel,Zeeshan Patel,user,True,,male
+ogowaikar,Omkar,user,False,,unknown
+thatllmguy,Abhishek Nikam,user,False,,male
+uahmed93,AhmedUmair Khan,user,False,,male
+akarale,Ashish Karale,user,True,,male
+svenchilton,Sven Chilton,user,True,,male
+SongweiGe,Songwei Ge,user,False,,male
+nvidian,Nick S,user,False,,unknown
+chenyuec-nv,ChenyueC,user,False,,unknown
+simsun131,Simeng Sun,user,True,,unknown
+kingdom1028,Yichi Zhang,user,False,,unknown
+dacarrillo,Daniel Carrillo,user,False,,male
+Zhiding,Zhiding Yu,user,True,Santa Clara,male
+chenhany-nv,Chenhan Yu,user,False,,unknown
+zhiqilinv,Zhiqi Li,user,False,,unknown
+Juany-nv,Yu,user,False,,unknown
+kevflu,Kevin,user,False,,unknown
+DYared,Dina Yared,user,False,,female
+spnv,Sonali Pitre,user,False,,female
+ekfir,eli kfir,user,False,,male
+Vahid83,Vahid Noormofidi,user,False,,male
+fsabri,Faisal Sabri,user,False,,male
+samodi,Sahil Modi,user,False,,male
+mkhadkevich,Khadkevich,user,False,,male
+ruchaa01,Rucha Apte,user,False,,female
+sklingler,Severin Klingler,user,True,,male
+makeshn,Makesh Sreedhar,user,True,,male
+lmcafee-nvidia,Lawrence McAfee,user,False,,male
+JamesShenNV,James Shen,user,False,,male
+Patrick544,WU,user,False,,unknown
+subhanjali,Subhanjali S,user,False,,female
+aienti,RG,user,False,,unknown
+dwromero-nv,David W Romero,user,False,,male
+ssambat,S,user,False,,unknown
+Grigor-N,Grigor Nalbandyan,user,False,,male
+davenbacker,Dave Michael,user,True,,male
+bdangNVIDIA,Brian Dang,user,False,,male
+aayrapetyan,Alexan,user,False,,unknown
+samuelnordmann,samuel nordmann,user,False,,male
+zhaoyuanh,Zhaoyuan He,user,False,,unknown
+GuoqingZhou,Guoqing Zhou,user,False,,male
+yichenxu99,Yichen Xu,user,False,,unknown
+rprenger,Ryan James Prenger,user,False,,male
+dadu-nvidia,David Du,user,False,,male
+BinLiunls,BinLiu,user,False,,male
+joshao,John Shao,user,False,,male
+Xuangui,Huang,user,False,,unknown
+nicolasnoble-nvidia,Nicolas Noble,user,True,United States,male
+xiaohui2022,xiaohui zeng,user,True,San Francisco,unknown
+fsaady,Fadi,user,False,,unknown
+nvdamali,Nithin Kumar Mali,user,False,,male
+pcastonguay,Patrice Castonguay,user,False,,male
+valtsblukis,Valts Blukis,user,False,,male
+anavp,Anav Prasad,user,False,,unknown
+CasanovaE,Casanova,user,True,Brazil,male
+jlunden,Jarmo Lunden,user,False,,male
+waeel87,AT,user,False,,unknown

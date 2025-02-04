@@ -1,0 +1,14 @@
+username,name,role,has_github,location,gender
+tonyhoo,Tony Hu,user,True,,male
+pmdesai,Prateek,user,True,Pune,male
+shchuro,Oleksandr Shchur,user,True,"Berlin, Germany",male
+canerturkmen,Caner Turkmen,user,True,"Berlin, Germany",male
+KEVORM1,Kevin Ormiston,user,False,,male
+innixma,Nick Erickson,user,True,"Seattle, WA",male
+anirudh,Anirudh Dagar,user,True,Berlin,male
+suzhoum,Su Zhou,user,False,,unknown
+yewboulder,Wenming Ye,user,False,,male
+lovvge,Bernie Wang,user,True,"Santa Clara, CA",male
+lostella,Lorenzo Stella,user,True,"Berlin, Germany",male
+abdulfatir,Abdul Fatir Ansari,user,True,Berlin,male
+xiyuanz,Xiyuan Zhang,user,False,,unknown

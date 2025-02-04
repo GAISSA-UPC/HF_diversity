@@ -1,0 +1,5 @@
+username,name,role,has_github,location
+schmika,Katharina Schmid,user,False,
+jbaiter,Johannes Baiter,user,True,"Munich, Germany"
+bitzl,Marcus Bitzl,user,True,"Munich, Germany"
+stefan-it,Stefan Schweter,user,True,"Bavarian Oberland, Germany"

@@ -1,0 +1,9 @@
+username,name,role,has_github,location,gender
+ggerganov,Georgi Gerganov,user,True,"Sofia, Bulgaria",male
+phymbert,Pierrick HYMBERT,user,True,Paris,male
+reach-vb,Vaibhav Srivastav,user,True,nvidia-smi,male
+ngxson,Xuan Son NGUYEN,user,True,France,male
+slaren,slaren,user,True,Spain,unknown
+pcuenq,Pedro Cuenca,user,True,Spain,male
+ltoniazzi,lt,user,True,,unknown
+rgerganov,Radoslav Gerganov,user,True,,male

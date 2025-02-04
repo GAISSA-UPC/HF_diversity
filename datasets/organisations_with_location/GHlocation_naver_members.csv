@@ -1,0 +1,38 @@
+username,name,role,has_github,location
+besacier,laurent besacier,user,True,
+YannisK,Yannis Kalantidis,user,True,"Grenoble, France"
+yhoppeno,Yves Hoppenot,user,False,
+PhilippeWeinzaepfel,Philippe Weinzaepfel,user,True,
+tformal,Thibault Formal,user,True,Grenoble
+bchidlovskii,Boris Chidlovskii,user,False,
+nguerin,Nicolas Guérin,user,True,
+ChristopheL,Christophe Legras,user,False,
+germank,Germán Kruszewski,user,True,
+Herve,Hervé Déjean,user,True,
+ClaudeSenor,Roux,user,False,
+fbaradel,Fabien Baradel,user,True,
+mzboito,Marcely Zanon Boito,user,True,
+nle-sar,Search and Recommendation group at Naver Labs Europe,user,False,
+Vassilina,Vassilina Nikoulina,user,False,
+nadiinchi,Nadia,user,False,
+tthonet,Thibaut Thonet,user,False,
+rdef,Romain Deffayet,user,True,"Grenoble, France"
+dionysos69,Fabien GUILLOT,user,False,
+gskim,Giseop Kim,user,True,"Seongnam City, South Korea"
+Almoni,Leo,user,False,
+JYVD,Jean-Yves Vion-Dury,user,True,
+sclincha,Stephane Clinchant,user,True,
+josrozen,Jos Rozen,user,True,Grenoble
+ted-hwang,Ted Hwang,user,False,
+yocabon,Yohann CABON,user,False,
+vleroy,Vincent Leroy,user,False,
+rbreg,Brégier,user,False,
+ioan-calapodescu,Ioan Calapodescu,user,True,
+jerome-revaud,Jerome Revaud,user,True,
+IreneMaxwell,Irene Maxwell,user,False,
+maxoul,maxime louis,user,False,
+nlagos,Nikolaos Lagos,user,False,
+mniemaz,michael niemaz,user,False,
+Beomseok-LEE,Beomseok LEE,user,False,
+mbsariyildiz,Mert Bulent Sariyildiz,user,True,"Grenoble, France"
+alexmsrh,Alexandre Misrahi,user,True,"Lausanne, Switzerland"

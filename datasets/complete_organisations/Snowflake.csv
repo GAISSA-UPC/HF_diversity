@@ -1,0 +1,201 @@
+username,name,role,has_github,location,gender
+carolinefrascasnowflake,Caroline Frasca,user,False,,female
+jeffra,Jeff Rasley,user,True,"Seattle, WA",male
+jeffshaw,jeff shaw,user,True,,male
+iamontheinet,Dash,user,True,"California, USA",male
+maximesimon,Maxime Simon,user,True,Paris,male
+sfc-gh-jdacosta,john,user,True,Florida,male
+sfc-sbirmiwal,shishir birmiwal,user,False,,male
+fjkattan,Francisco,user,True,San Francisco Bay Area,male
+yusufo,Yusuf Ozuysal,user,False,,male
+upatel,Umesh,user,True,Bay Area,male
+ranton256,Snowflake,user,True,"Fall City, WA",unknown
+thechosentom,Tom Christian,user,False,,male
+ppadige,Praveen Padige,user,False,,male
+Alex123456765432,FRANCIS,user,False,,male
+waldemarkot,Waldemar Kot,user,False,,male
+mnowotkaSF,Michał Nowotka,user,False,,male
+frosty-sthlm,Ralph Dreilich,user,False,,male
+enriqueplata,Plata,user,False,,unknown
+karol-kaczmarek-snowflake,Karol Kaczmarek,user,False,,male
+fabian-gampfer-snow,Fabian Gampfer,user,False,,male
+vchauvin,Chauvin,user,False,,unknown
+alentschener,LENTSCHENER,user,False,,unknown
+ch-snarf,Frans van Dortmont,user,False,,male
+willhuang1997,William Huang,user,False,,male
+pawellis,Paweł Lis,user,False,,male
+hugob92,hugo barret,user,False,,male
+hnorhoj,Henrik Norhøj Nielsen,user,False,,male
+honytoad,Tony Hoad,user,False,,male
+rchaitra,Chaitra Raghavendra,user,False,,female
+vincent7123,Vincent Chan,user,False,,male
+mglickman,Matt Glickman,user,True,,male
+hp18019,Harsh Patel,user,False,,male
+joeyfoley,Joey Foley,user,False,,male
+rfehrmann,RobertFehrmann,user,False,,male
+mstellwall,Mats Stellwall,user,False,,male
+bb-snowflake,Brian,user,True,,male
+sfc-hf-akim,Andrew Kim,user,False,,male
+jasonsummer,Jason Summer,user,False,,male
+naga1583,Naga Mahadevan,user,False,,male
+sfc-hf-pnanisetty,Prabhath Nanisetty,user,True,,male
+sfc-hf-dkincaid,David Kincaid,user,False,,male
+apdsnowflake,A D,user,False,,unknown
+mcostner,Michael Costner,user,False,,male
+dshavkani,Dharmendra Shavkani,user,False,,male
+snowbp,Snowflake (Benjamin Prosnitz),user,True,,male
+sk-snowflake,Khara,user,False,,unknown
+jpatterson,Jaclyn Patterson,user,False,,female
+rellis,Ryan Ellis,user,False,,unknown
+mmasood,Mubashir Masood,user,False,,male
+sjames6,Stephen James,user,True,,male
+sfc-gh-reidlewis,Reid Lewis,user,True,,male
+weicheng-zhao,Weicheng Zhao,user,False,,male
+bbonzell,Bret Bonzell,user,False,,male
+jasho,Jason Ho,user,False,,male
+cbarraugh,Collin Barraugh,user,False,,male
+jianger943,Evan Jiang,user,False,,male
+sf-huggingface-vtimofeenko,Vladimir Timofeenko,user,False,,male
+Tadeusz,Tadeusz Jargilo,user,False,,male
+tgaede,Tyler Gaede,user,False,,male
+rajhans-snowflake,Rajhans Samdani,user,True,,unknown
+zfrazier,Zach Frazier,user,False,,male
+rajpattabi,Raj Pattabi,user,False,,unknown
+benjaminmcclellan,Benjamin McClellan,user,False,,male
+ranton,Richard Anton,user,True,"Fall City, WA",male
+masquerade7,Yi Zhou,user,False,,unknown
+sfc-pp,Paweł P,user,False,,male
+sfc-tmeacham,Tom Meacham,user,False,,male
+wvillano,Wim Villano,user,False,,male
+adevaraj,Ashwin Devaraj,user,False,,male
+roshanb1,Roshan.budathoki,user,False,,male
+sashamitrovichsnowflake,Sasha Mitrovich,user,False,,unknown
+srour,Ben Srour,user,False,,male
+markboos,Mark Boos,user,False,,male
+sf-phalama,Piotr Halama,user,False,,male
+rsokhan,Romaric Sokhan,user,False,,male
+tarunjaitly,Tarun Jaitly,user,False,,male
+yaleyan,Hanbing,user,False,,unknown
+pawel-joziak,Paweł Józiak,user,True,,male
+cpelky,Chris Pelky,user,False,,male
+fawadsnow,Fawad Qureshi,user,False,,male
+ArpitP07,Arpit Parihar,user,False,,male
+osinquin,olivier sinquin,user,False,,male
+michaelgorkowsnowflake,Michael Gorkow,user,False,,male
+hazhang,Hao Zhang,user,False,,male
+robbythomas79,Robby,user,True,,unknown
+yoo82,Daniel Yoo,user,False,,male
+huggingfacehugging,macy,user,False,,female
+msnow2024,Malini Senthilkumar,user,True,,female
+danielwilczak,Daniel Wilczak,user,False,,male
+jdanielmyers,Daniel Myers,user,True,Dallas TX,male
+fpriluq,Francisco Priego Luque,user,False,,male
+val-sf,V. W.,user,False,,unknown
+smurakawa,shinya murakawa,user,False,,male
+prathameshnimkar,Prathamesh Nimkar,user,True,Mumbai,male
+ppatel34,Pranav Patel,user,False,,male
+MikeTay,Mike Taylor,user,True,,male
+sethli,Seth Li,user,False,,unknown
+muraligandhirajan,Murali Gandhirajan,user,False,,male
+rehuang,reneehuang,user,True,,female
+standure,Sumeet Tandure,user,False,,male
+sfc-gh-twhite,Tyler White,user,False,,male
+pgifford34,Pete Gifford,user,True,,male
+xpo911,Yukio Ishikawa,user,False,,male
+proksch,David Proksch,user,False,,male
+mholsomback,Michael Holsomback,user,False,,male
+shopperton,Sam Hopperton,user,False,,unknown
+jlemmon,Jeremy Lemmon,user,True,"Nashville, TN",male
+Balabhargav,KV,user,False,,unknown
+mtouiti-sfc,Mohamed Touiti,user,False,,male
+cbaechtold,Caleb Baechtold,user,False,,male
+spacemanidol,Daniel Campos,user,True,"Urbana, Illinois",male
+sfcgorrie,Cam Gorrie,user,False,,unknown
+sf-atif,Atif Tahir,user,False,,male
+rajistics,Rajiv Shah,user,True,Illinois,male
+dylankaufman,Dylan Kaufman,user,False,,male
+tonykipkip,Kipkemboi,user,False,,male
+annafil,Anna Filippova,user,True,"San Francisco, CA",female
+xdm222,danmei xu,user,False,,unknown
+sfc-gh-gnuti,Gaurav Nuti,user,False,,male
+OmerMiz,Omer Mizrachi,user,False,,male
+sf-tmasuda,Takashi Masuda,user,False,,male
+arryy,Aryan Kashyap,user,False,,male
+gdaniele,Gerard Daniele,user,False,,male
+nkasdali,Nassim Kasdali,user,False,,male
+sfc-amauser,Arne Mauser,user,False,,male
+jzsnow,Jan Zyśko,user,False,,male
+thomasdahlberg,thomas dahlberg,user,False,,male
+aurick,Aurick Qiao,user,True,"Pittsburgh, PA",male
+treuille,Adrien Treuille,user,True,San Francisco,male
+lukasmasuch,Lukas Masuch,user,True,Berlin,male
+liberim,Arnaud,user,False,,male
+rrprasan,Prasanna Rajagopal,user,False,,male
+vfontama,Valentine Fontama,user,False,,unknown
+rpsan,R P,user,False,,unknown
+sharvan123,Sharvan kumar,user,False,,male
+abeebe,Amber Beebe,user,False,,female
+hsm96,Hareesh,user,False,,male
+kolsson,kevin olsson,user,False,,male
+SeekerofKnowledge,Robb Watson,user,False,,male
+Snowcona,Josh Chacona,user,False,,male
+meherg,meher,user,False,,unknown
+knadadur,karunakaran thirumangalam nadadur,user,False,,male
+eddsnow,E,user,False,,unknown
+Sarwesh15,Sarwesh P,user,False,,male
+rhubert616,R Hubert,user,True,,unknown
+jackhusnow,Xiaofei Hu,user,False,,unknown
+sf-kbregula,Kamil,user,True,,unknown
+rusum,Phani Raj,user,False,,unknown
+sfc-gh-goliaro,Gabriele Oliaro,user,True,San Mateo,male
+JordanSnow,Jordan Hill,user,False,,male
+zmjwal,Zachary Walravens,user,False,,male
+brianhess,Brian Hess,user,False,,male
+ranyabell,Ranya Bellouki,user,False,,female
+sfc-gh-sabbas,Sarim Abbas,user,False,,male
+abisheks-snowflake,Abishek Sridhar,user,False,,male
+coreyhu,Corey Hu,user,True,"SF Bay Area, CA",male
+gn03249822,Daniel Huang,user,True,,male
+tmasuo,Takumi Masuo,user,True,"Tokyo, Japan",male
+ssardana-sfl,Sumit Sardana,user,False,,male
+davidkurokawa-at-snowflake,David Kurokawa,user,False,,male
+rreed-sf,Ryan Reed,user,False,,male
+snowdan,Daniel Ong,user,True,Singapore,male
+lukemerrick,Luke Merrick,user,True,,male
+rator,Rebecca Ator,user,False,,female
+kelvin-so-snowflake,Chiu Wah So,user,False,,unknown
+alvinupsnowflake,Alvin Utama Putra,user,True,,male
+maheshkmsnowflake,Mahesh K,user,False,,male
+techieguy,Kumuthan,user,False,,male
+Wanming-SF,Huang,user,False,,unknown
+daniel-silva,Daniel Silva,user,False,,male
+mkrzyzinski,Mateusz Krzyziński,user,False,,male
+sfc-gh-misong,Michael Song,user,False,,male
+sf-galkowskim,Mikołaj Gałkowski,user,False,,male
+mmotohas,Mineaki Motohashi,user,False,,male
+jyotil9229,Jyoti Lakra,user,False,,female
+filipgra,Filip Graliński,user,False,,male
+youngbr,Brandon,user,False,,male
+jerryluo411,Jerry Luo,user,False,,male
+nitya-tarakad,Nitya Tarakad,user,False,,female
+erikpolano,Erik Polano,user,False,,unknown
+AbhijeetJ,Abhijeet Rajendra Jawlekar,user,False,,male
+screamingweasel,James Barnett,user,False,,male
+sfc-mwydmuch,Marek Wydmuch,user,False,,male
+sfc-hf-pmardziel,Piotr Mardziel,user,True,"Mountain View, CA",male
+jparmar,Jai Parmar,user,False,,unknown
+merthidayetoglu,Mert Hidayetoglu,user,False,,male
+sf-artest,Arun Ponnusamy,user,False,,male
+ap8H5EHG5kxDx9Ja2ZfR,Wes Williams,user,False,,male
+sfc-hf-dkleczek,Darek Kleczek,user,False,,male
+Thor-Arne,Thor-Arne iversen,user,False,,male
+bertisbert,Albert Valdez,user,False,,male
+p-ramachandran,Pavithran Ramachandran,user,False,,male
+sfc-eluo,Edward Luo,user,True,,male
+raravena80,Ricardo Aravena,user,True,"San Mateo, CA",male
+cobra-cli,coby coleman,user,False,,unknown
+jinglun-li,Jinglun Li,user,False,,unknown
+cortex-hf,Cortex,user,False,,unknown
+Borchmann,Łukasz Borchmann,user,True,"Poznań, Poland",male
+pxyu,Puxuan (Martin) Yu,user,True,"Amherst, MA",male
+jcherron,Carter Herron,user,False,,male

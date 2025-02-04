@@ -1,0 +1,141 @@
+username,name,role,has_github,location
+olmoaccess,OLMo Access,user,False,
+kylel,Kyle Lo,user,True,"Seattle, WA"
+armanc,Arman Cohan,user,True,"New Haven, CT"
+CarissaS,Carissa Schoenick,user,True,United States
+codeviking,Sam Skjonsberg,user,True,"Seattle, WA"
+schmmd,Michael,user,True,"Whidbey Island, WA"
+dirkgr,Dirk Groeneveld,user,True,Seattle
+shannons,Shannon Shen,user,False,
+epwalsh,Evan Pete Walsh,user,True,Central Oregon
+jordi-ai2,Jordi Salvador,user,True,
+kunalpratap,Kunal Pratap Singh,user,True,IIT Roorkee
+roseh,Rose Hendrix,user,True,
+akshitab,Akshita Bhagia,user,True,
+darrellp,Darrell Plessas,user,False,
+JesseDodge,Jesse Dodge,user,False,
+IanMagnusson,Ian Magnusson,user,False,
+soldni,Luca Soldaini,user,True,"Seattle, WA, USA"
+yanaiela,Yanai Elazar,user,True,
+aps6992,Amanpreet Singh,user,True,"Seattle, WA"
+SaveBertAndGpt,Yuling Gu,user,False,
+shatu,Shashank Gupta,user,True,"Seattle, Washington"
+jacobmorrison,Jacob Morrison,user,True,
+pradeepd,Pradeep Dasigi,user,True,
+tusharkhot,Tushar Khot,user,True,
+jbragg,Jonathan Bragg,user,True,
+kmacmillan,Kelsey MacMillan,user,False,
+ychou-ai2,Yvonne Chou,user,False,
+hamishivi,Hamish Ivison,user,True,Seattle
+CrystalN,Crystal Nam,user,False,
+zcczhang,"Zichen ""Charles"" Zhang",user,False,
+ronanlb,Ronan Le Bras,user,False,
+favyen,Favyen Bastani,user,True,"Seattle, WA"
+alrope,Xinxi Lyu,user,False,
+oliverwm,Oliver Watt-Meyer,user,True,"Seattle, WA"
+shocheen,Sachin Kumar,user,True,United States
+aettinger,Allyson Ettinger,user,False,
+piperw,Piper Wolters,user,True,
+jdahm,Johann Dahm,user,True,"Seattle, WA"
+yuntian-deng,Yuntian Deng,user,True,
+faezeb,Faeze Brahman,user,False,
+caitwallenai,Caitlin Wittlif,user,False,
+nouhad,Nouha Dziri,user,True,Seattle
+natolambert,Nathan Lambert,user,True,
+baileyk,bailey kuehl,user,False,
+jeffhallenai,Jeff Hall,user,True,
+wentingzhao-allenai,Wenting Zhao,user,False,
+Muennighoff,Niklas Muennighoff,user,True,Stanford
+aakanksha19,Aakanksha Naik,user,True,"Pittsburgh, Pennsylvania"
+HoperTom,Tom Hope,user,False,
+power10rocketdan,Daniel,user,False,
+michaelw,Michael Wilson,user,False,
+katierai2,Katie Reynolds,user,False,
+pclark425,Peter Clark,user,True,"Seattle, WA"
+jlcmoore,Jared,user,False,
+yuchenlin,Bill Yuchen Lin,user,True,"Seattle, WA, USA"
+valentinhofmann,Valentin Hofmann,user,False,
+valpy,Valentina Pyatkin,user,True,
+yakazimir,Kyle Richardson,user,True,
+miked-ai,Mike D'Arcy,user,True,
+lucy4,Lucy Li,user,True,"Berkeley, CA"
+jasond-ai2,Jason Dunkelberger,user,False,
+mariaantoniak,Maria Antoniak,user,True,
+aaronsarnat,Aaron Sarnat,user,True,"Seattle, WA"
+FioOfAllenAI,Christopher Fiorelli,user,True,"Seattle, Washington, United States"
+Lebrechts,Sophie Lebrecht,user,True,
+erinbransom,Erin Bransom,user,False,
+jjyang7,JJ Yang,user,False,
+paula-ai2,Paul Albee,user,False,
+shanearora,Shane Arora,user,False,
+jaronl,Jaron Lochner,user,False,
+chrisc36,Christopher Clark,user,True,United States
+ashleyleeai,Ashley Lee,user,False,
+tairaa,Taira Anderson,user,False,
+alicew-ai2,Alice W,user,False,
+lasharavichander,Abhilasha Ravichander,user,False,
+claran,Clara Na,user,True,
+undfined,Tyler Murray,user,False,
+jenah,jena hwang,user,False,
+hanna-ai2,Hanna Hajishirzi,user,False,
+mennyp,Menny Pinhasov,user,True,Israel
+ljvmiranda921,Lj V. Miranda,user,True,Seattle
+khzeng7,Kuo-Hao,user,True,Seattle
+MLatzke,Matt Latzke,user,True,Seattle
+kellycyy,Kelly Chiu,user,False,
+AI2Karen,Karen Farley,user,False,
+fatemehmireshgh,fatemeh mir,user,False,
+jferdi,Joe Ferdinando,user,False,
+goblingirl,Brooke Vlahos,user,False,
+maartensap,Maarten Sap,user,True,
+bodhisattwam,Bodhisattwa Prasad Majumder,user,True,
+ai2otter,Mark Otterlee,user,False,
+sanghol,Sangho Lee,user,False,
+stefanc-ai2,Stefan Candra,user,False,
+bhavanad,Bhavana Dalvi Mishra,user,True,Seattle
+kavelrao,Kavel Rao,user,True,
+suranah,Harshit Surana,user,True,
+liujch1998,Jiacheng Liu,user,True,"Seattle, WA"
+danyhai2,danyh,user,False,
+taylorb,Taylor Blanton,user,False,
+liweijiang,Liwei Jiang,user,True,
+Rulin-AI2,Rulin Shao,user,False,
+sarahwie,Sarah Wiegreffe,user,True,
+chengjunyan1,Junyan Cheng,user,True,"Seattle, WA"
+sergeyfeldman,Sergey Feldman,user,True,"Seattle, WA"
+Yensung,Chen,user,False,
+rodneyk-allenai,Rodney Kinney,user,False,
+newellce,Chris Newell,user,True,
+davidheineman,David Heineman,user,True,
+vwxyzjn,Shengyi Costa Huang,user,True,"Philadelphia, PA"
+lehduong,Duong Hoang Le,user,True,"Seattle, WA"
+sydneylevine,Sydney Levine,user,False,
+josephcc,joseph chang,user,False,
+jmerullo,Jack Merullo,user,False,
+sewon,Sewon Min,user,True,"Seattle, WA"
+benbogin,Ben Bogin,user,True,
+awettig,Alexander Wettig,user,True,
+Tianhua,Tianhua Tao,user,False,
+ai2michaelz,Michael Zhang,user,False,
+saumyamalik,Saumya Malik,user,False,
+alisawuffles,Alisa Liu,user,True,
+huongn,Huong Ngo,user,False,
+swj0419,Weijia Shi,user,False,
+jamesp-allenai,Park,user,False,
+reza-ai2,Reza,user,False,
+mattjordan,Matt Jordan,user,True,"Seattle, WA"
+davidg-ai2,David Graham,user,False,
+amanrangapur,Aman Rangapur,user,True,"Chicago, Illinois"
+VGraf,Victoria Graf,user,False,
+annejulian,Anne Julian,user,False,
+cmalaviya,Chaitanya Malaviya,user,True,Seattle
+OyvindTafjord,Oyvind Tafjord,user,True,
+EtashGuha,Etash Guha,user,False,
+andreperkins,Andre Perkins,user,True,
+nora-ra,Nora,user,False,
+jakep-allenai,Jake Poznanski,user,False,
+elynnwu,Elynn Wu,user,True,"Seattle, WA"
+spencerkclark,Spencer Clark,user,True,"Princeton, NJ"
+yizhongw,Yizhong Wang,user,True,Seattle
+brianhenn,Brian Henn,user,False,
+pbai2,Patrick,user,True,
